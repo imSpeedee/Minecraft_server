@@ -1,0 +1,164 @@
+[12:55:19] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:55:19] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:55:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:55:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:55:19] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:55:19] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:55:19] [main/INFO]: Reloading ResourceManager: Default
+[12:55:20] [Worker-Main-13/INFO]: Loaded 7 recipes
+[12:55:20] [Worker-Main-13/INFO]: Loaded 927 advancements
+[12:55:22] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[12:55:22] [Server thread/INFO]: Loading properties
+[12:55:22] [Server thread/INFO]: Default game type: SURVIVAL
+[12:55:22] [Server thread/INFO]: Generating keypair
+[12:55:22] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Controlador no válido
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_271]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_271]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_271]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_271]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_271]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_271]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_271]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_271]
+	at zg$1.run(SourceFile:95) [server.jar:?]
+[12:55:23] [Server thread/INFO]: Starting Minecraft server on 192.168.0.3:25565
+[12:55:23] [Server thread/INFO]: Using default channel type
+[12:55:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:55:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:55:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:55:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:55:24] [Server thread/INFO]: Preparing level "world"
+[12:55:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:55:29] [Server thread/INFO]: Preparing spawn area: 0%
+[12:55:29] [Server thread/INFO]: Preparing spawn area: 0%
+[12:55:29] [Server thread/INFO]: Preparing spawn area: 0%
+[12:55:29] [Server thread/INFO]: Preparing spawn area: 0%
+[12:55:29] [Server thread/INFO]: Preparing spawn area: 0%
+[12:55:29] [Server thread/INFO]: Preparing spawn area: 0%
+[12:55:29] [Server thread/INFO]: Preparing spawn area: 0%
+[12:55:29] [Server thread/INFO]: Preparing spawn area: 0%
+[12:55:29] [Server thread/INFO]: Preparing spawn area: 0%
+[12:55:29] [Server thread/INFO]: Preparing spawn area: 0%
+[12:55:29] [Server thread/INFO]: Preparing spawn area: 0%
+[12:55:30] [Server thread/INFO]: Preparing spawn area: 0%
+[12:55:30] [Server thread/INFO]: Preparing spawn area: 0%
+[12:55:31] [Server thread/INFO]: Time elapsed: 6965 ms
+[12:55:31] [Server thread/INFO]: Done (7.116s)! For help, type "help"
+[12:55:32] [Server thread/INFO]: _SPEEDEE_[/192.168.0.3:50630] logged in with entity id 318 at (-152.7598854704666, 63.0, -208.54232342860922)
+[12:55:32] [Server thread/INFO]: _SPEEDEE_ joined the game
+[12:55:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[12:55:45] [Server thread/INFO]: [_SPEEDEE_: Set own game mode to Survival Mode]
+[12:58:04] [Server thread/INFO]: oscar[/188.77.146.103:60846] logged in with entity id 740 at (-160.1899311943697, 64.0, -161.9569477435769)
+[12:58:04] [Server thread/INFO]: oscar joined the game
+[12:58:06] [Server thread/INFO]: DNafar[/188.77.147.173:58621] logged in with entity id 778 at (-179.29152122267448, 80.0, -224.12752383752337)
+[12:58:06] [Server thread/INFO]: DNafar joined the game
+[13:00:14] [Server thread/INFO]: oscar has made the advancement [Cover Me With Diamonds]
+[13:02:58] [Server thread/INFO]: oscar fell off scaffolding
+[13:04:35] [Server thread/INFO]: vegeta33[/79.153.78.176:49974] logged in with entity id 2887 at (-119.45526022358787, 67.5, -214.53737676465926)
+[13:04:35] [Server thread/INFO]: vegeta33 joined the game
+[13:05:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[13:05:47] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[13:05:47] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[13:05:56] [Server thread/WARN]: DNafar moved wrongly!
+[13:09:09] [Server thread/INFO]: DNafar has made the advancement [Local Brewery]
+[13:10:36] [Server thread/WARN]: DNafar moved too quickly! 0.6878110749782991,0.12505759238547398,17.85175782910744
+[13:14:29] [Server thread/INFO]: DNafar lost connection: Disconnected
+[13:14:29] [Server thread/INFO]: DNafar left the game
+[13:26:57] [Server thread/INFO]: oscar lost connection: Disconnected
+[13:26:57] [Server thread/INFO]: oscar left the game
+[13:28:40] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
+[13:38:22] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
+[13:48:11] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
+[13:58:28] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
+[14:01:55] [Server thread/WARN]: _SPEEDEE_ moved wrongly!
+[14:09:16] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
+[14:16:17] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3181, y=64, z=356} fx{x=3181, y=63, z=357}
+[14:16:28] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3183, y=65, z=356} fx{x=3183, y=65, z=355}
+[14:16:28] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3183, y=66, z=356} fx{x=3183, y=65, z=356}
+[14:16:28] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3183, y=66, z=356} fx{x=3183, y=65, z=356}
+[14:16:28] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3183, y=66, z=356} fx{x=3183, y=65, z=356}
+[14:17:22] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3196, y=64, z=355} fx{x=3194, y=63, z=357}
+[14:17:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3195, y=66, z=362} fx{x=3196, y=66, z=363}
+[14:17:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3195, y=66, z=362} fx{x=3196, y=66, z=363}
+[14:17:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3195, y=66, z=362} fx{x=3196, y=66, z=363}
+[14:17:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3195, y=66, z=362} fx{x=3196, y=66, z=363}
+[14:17:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3195, y=66, z=362} fx{x=3196, y=66, z=363}
+[14:17:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3195, y=66, z=362} fx{x=3196, y=66, z=363}
+[14:17:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3195, y=66, z=362} fx{x=3196, y=66, z=363}
+[14:17:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3195, y=66, z=362} fx{x=3196, y=66, z=363}
+[14:17:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3195, y=66, z=362} fx{x=3196, y=66, z=363}
+[14:17:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3195, y=66, z=362} fx{x=3196, y=66, z=363}
+[14:17:46] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3195, y=66, z=362} fx{x=3196, y=66, z=363}
+[14:19:17] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
+[14:19:26] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3191, y=67, z=367} fx{x=3191, y=67, z=366}
+[14:19:26] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3191, y=67, z=367} fx{x=3191, y=67, z=366}
+[14:19:26] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3191, y=67, z=367} fx{x=3191, y=67, z=366}
+[14:19:26] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3191, y=67, z=367} fx{x=3191, y=67, z=366}
+[14:19:26] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3191, y=67, z=367} fx{x=3191, y=67, z=366}
+[14:19:26] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3191, y=67, z=367} fx{x=3191, y=67, z=366}
+[14:19:26] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3191, y=67, z=367} fx{x=3191, y=67, z=366}
+[14:19:27] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3191, y=67, z=367} fx{x=3191, y=67, z=366}
+[14:19:27] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3191, y=67, z=367} fx{x=3191, y=67, z=366}
+[14:20:46] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3200, y=64, z=371} fx{x=3199, y=64, z=371}
+[14:20:46] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3197, y=65, z=370} fx{x=3198, y=63, z=371}
+[14:23:31] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3178, y=67, z=364} fx{x=3179, y=65, z=364}
+[14:23:31] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3178, y=67, z=364} fx{x=3179, y=65, z=364}
+[14:23:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3179, y=67, z=366} fx{x=3178, y=67, z=366}
+[14:23:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3179, y=67, z=366} fx{x=3178, y=67, z=366}
+[14:24:35] [Server thread/INFO]: TheDravirus[/88.21.222.60:58272] logged in with entity id 49585 at (-150.5, 63.5625, -205.5)
+[14:24:35] [Server thread/INFO]: TheDravirus joined the game
+[14:24:59] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3177, y=68, z=377} fx{x=3179, y=67, z=378}
+[14:24:59] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3177, y=68, z=377} fx{x=3179, y=67, z=378}
+[14:24:59] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3177, y=68, z=377} fx{x=3179, y=67, z=378}
+[14:24:59] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3177, y=68, z=377} fx{x=3179, y=67, z=378}
+[14:24:59] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3177, y=68, z=377} fx{x=3179, y=67, z=378}
+[14:24:59] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3177, y=68, z=377} fx{x=3179, y=67, z=378}
+[14:24:59] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3177, y=68, z=377} fx{x=3179, y=67, z=378}
+[14:24:59] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3177, y=68, z=377} fx{x=3179, y=67, z=378}
+[14:25:00] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3177, y=68, z=377} fx{x=3179, y=67, z=378}
+[14:25:00] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3177, y=68, z=377} fx{x=3179, y=67, z=378}
+[14:25:52] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
+[14:27:01] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3177, y=67, z=371} fx{x=3178, y=66, z=373}
+[14:27:01] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3177, y=67, z=371} fx{x=3178, y=66, z=373}
+[14:27:01] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3177, y=67, z=371} fx{x=3178, y=66, z=373}
+[14:28:08] [Server thread/INFO]: vegeta33 has made the advancement [Tactical Fishing]
+[14:28:17] [Server thread/INFO]: _SPEEDEE_ lost connection: Disconnected
+[14:28:17] [Server thread/INFO]: _SPEEDEE_ left the game
+[14:35:36] [Server thread/WARN]: vegeta33 moved too quickly! -8.378634501676558,-20.657433352685672,-8.079644009144715
+[14:48:56] [Server thread/INFO]: oscar[/188.77.146.103:61110] logged in with entity id 58588 at (-137.04919982503182, 11.0, -48.30000001192093)
+[14:48:56] [Server thread/INFO]: oscar joined the game
+[14:54:31] [Server thread/INFO]: oscar has reached the goal [Sky's the Limit]
+[15:02:47] [Server thread/WARN]: vegeta33 moved wrongly!
+[15:07:45] [Server thread/WARN]: oscar moved too quickly! 18.071734447675908,-1.7473554401142621,-3.433621449165912
+[15:09:13] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-122, y=47, z=-268} fx{x=-122, y=46, z=-267}
+[15:15:26] [Server thread/WARN]: vegeta33 moved wrongly!
+[15:15:36] [Server thread/WARN]: oscar moved too quickly! 18.524144553416818,-2.090892105166631,1.351972538244695
+[15:15:36] [Server thread/WARN]: vegeta33 moved too quickly! -0.5163529103338362,5.77292265073811,9.195860160708662
+[15:15:50] [Server thread/WARN]: oscar moved too quickly! 15.091479700690115,-1.6131616800380044,-10.405735429744709
+[15:20:36] [Server thread/WARN]: oscar moved too quickly! -0.5127636280790853,2.426796645552912,18.003734554569746
+[15:20:36] [Server thread/WARN]: vegeta33 moved too quickly! 1.8298861073947137,10.398531908987735,-0.8820604985373848
+[15:21:05] [Server thread/INFO]: * Server cierro servidor en 10 min
+[15:24:49] [Server thread/INFO]: vegeta33 lost connection: Disconnected
+[15:24:49] [Server thread/INFO]: vegeta33 left the game
+[15:25:55] [Server thread/INFO]: * Server cierro en 5 min
+[15:29:47] [Server thread/INFO]: * Server chavales tengo que ir cerrando
+[15:30:02] [Server thread/INFO]: TheDravirus lost connection: Disconnected
+[15:30:02] [Server thread/INFO]: TheDravirus left the game
+[15:30:04] [Server thread/INFO]: oscar lost connection: Disconnected
+[15:30:04] [Server thread/INFO]: oscar left the game
+[15:30:07] [Server thread/INFO]: Stopping server
+[15:30:07] [Server thread/INFO]: Saving players
+[15:30:07] [Server thread/INFO]: Saving worlds
+[15:30:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:30:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:30:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:30:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:30:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:30:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:30:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:30:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:30:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
