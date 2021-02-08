@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2021-02-06 16:16:19 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2021-01-29 12:50:55 +0100"
@@ -311,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-02-06 16:16:19 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2021-01-29 12:50:55 +0100"
@@ -362,6 +374,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2021-01-28 23:28:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2021-02-08 01:15:38 +0100"
     },
     "done": true
   },
@@ -1010,6 +1028,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2021-02-07 03:00:58 +0100"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2021-02-04 17:52:11 +0100"
@@ -1031,6 +1055,12 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2021-01-28 23:21:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2021-02-08 01:40:38 +0100"
     },
     "done": true
   },
@@ -1491,6 +1521,7 @@
       "minecraft:desert": "2021-01-29 19:09:34 +0100",
       "minecraft:deep_frozen_ocean": "2021-01-29 13:08:36 +0100",
       "minecraft:jungle": "2021-02-01 01:56:07 +0100",
+      "minecraft:birch_forest": "2021-02-08 02:25:14 +0100",
       "minecraft:jungle_hills": "2021-02-01 01:56:33 +0100",
       "minecraft:warm_ocean": "2021-02-01 02:01:48 +0100",
       "minecraft:deep_lukewarm_ocean": "2021-01-29 19:08:24 +0100",
@@ -1520,6 +1551,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2021-01-29 18:58:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2021-02-06 16:16:19 +0100"
     },
     "done": true
   },
@@ -2025,6 +2062,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-02-06 16:16:19 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2021-01-29 14:30:07 +0100"
@@ -2076,6 +2119,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-29 00:05:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-02-06 16:00:42 +0100"
     },
     "done": true
   },
@@ -2203,8 +2252,10 @@
       "golden_apple": "2021-01-30 16:20:48 +0100",
       "salmon": "2021-01-28 23:21:39 +0100",
       "dried_kelp": "2021-01-29 00:08:37 +0100",
+      "melon_slice": "2021-02-06 14:02:20 +0100",
       "beetroot": "2021-01-30 16:32:29 +0100",
       "golden_carrot": "2021-02-03 00:11:08 +0100",
+      "cooked_chicken": "2021-02-08 00:40:23 +0100",
       "mushroom_stew": "2021-01-29 13:26:56 +0100",
       "cod": "2021-01-29 13:12:39 +0100",
       "cooked_salmon": "2021-01-29 00:11:14 +0100",
@@ -2711,6 +2762,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2021-02-07 03:02:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-29 00:05:18 +0100"
@@ -2750,6 +2807,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-01-29 13:16:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2021-02-07 03:02:24 +0100"
     },
     "done": true
   },
@@ -2972,6 +3035,18 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2021-01-29 19:00:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-02-06 16:00:42 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-02-06 16:00:42 +0100"
     },
     "done": true
   },
@@ -3227,6 +3302,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2021-02-08 02:45:51 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2021-01-29 12:58:39 +0100"
@@ -3254,6 +3335,12 @@
   "minecraft:end/find_end_city": {
     "criteria": {
       "in_city": "2021-02-04 17:54:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2021-02-07 03:00:58 +0100"
     },
     "done": true
   },
@@ -3320,6 +3407,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2021-01-29 18:51:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2021-02-07 03:00:58 +0100"
     },
     "done": true
   },
@@ -3437,6 +3530,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2021-02-06 16:00:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2021-01-29 12:50:55 +0100"
@@ -3464,6 +3563,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2021-01-30 14:49:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2021-02-06 16:16:19 +0100"
     },
     "done": true
   },
@@ -3500,6 +3605,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2021-02-04 17:52:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-02-06 16:00:42 +0100"
     },
     "done": true
   },
@@ -3566,6 +3677,18 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_gray_dye": "2021-01-30 21:55:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-02-06 16:16:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2021-02-08 02:06:09 +0100"
     },
     "done": true
   },

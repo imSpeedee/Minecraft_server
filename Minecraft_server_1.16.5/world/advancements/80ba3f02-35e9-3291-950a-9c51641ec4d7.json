@@ -536,6 +536,7 @@
       "minecraft:creeper": "2021-02-03 14:53:58 +0100",
       "minecraft:zombified_piglin": "2021-02-03 15:03:58 +0100",
       "minecraft:witch": "2021-02-04 02:54:38 +0100",
+      "minecraft:husk": "2021-02-08 01:51:09 +0100",
       "minecraft:enderman": "2021-01-29 16:15:06 +0100",
       "minecraft:zombie": "2021-01-29 01:09:30 +0100",
       "minecraft:drowned": "2021-01-29 01:48:24 +0100",
@@ -762,6 +763,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2021-01-30 02:10:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2021-02-08 01:43:06 +0100"
     },
     "done": true
   },
@@ -1092,6 +1099,7 @@
       "minecraft:dark_forest": "2021-02-04 02:51:48 +0100",
       "minecraft:river": "2021-01-29 00:59:02 +0100",
       "minecraft:lukewarm_ocean": "2021-02-03 15:10:05 +0100",
+      "minecraft:birch_forest_hills": "2021-02-08 01:13:28 +0100",
       "minecraft:wooded_mountains": "2021-02-04 16:06:38 +0100",
       "minecraft:wooded_hills": "2021-01-29 00:57:57 +0100",
       "minecraft:giant_tree_taiga_hills": "2021-02-03 15:17:42 +0100",
@@ -1517,7 +1525,9 @@
       "apple": "2021-02-05 02:08:56 +0100",
       "cooked_cod": "2021-01-29 01:48:54 +0100",
       "golden_apple": "2021-02-05 02:11:39 +0100",
+      "bread": "2021-02-08 01:49:43 +0100",
       "beetroot": "2021-02-01 01:48:12 +0100",
+      "golden_carrot": "2021-02-08 02:07:33 +0100",
       "cooked_chicken": "2021-01-29 01:19:24 +0100",
       "cod": "2021-01-29 16:17:55 +0100",
       "cooked_salmon": "2021-01-29 01:45:13 +0100",
@@ -2252,6 +2262,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2021-02-08 01:38:38 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2021-02-03 13:01:04 +0100"
@@ -2369,6 +2385,12 @@
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2021-01-29 01:14:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2021-02-08 01:49:58 +0100"
     },
     "done": true
   },
