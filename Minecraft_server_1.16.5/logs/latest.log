@@ -1,253 +1,233 @@
-[00:17:52] [Server thread/INFO]: TheDravirus was slain by Zombified Piglin
-[00:20:03] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/163360, l='ServerLevel[world]', x=-28.05, y=253.00, z=-24.05]
-[00:28:28] [Server thread/INFO]: A10ElTaco[/185.219.139.77:59747] logged in with entity id 166099 at (-136.12557818467937, 75.0, -191.44626192269692)
-[00:28:28] [Server thread/INFO]: A10ElTaco joined the game
-[00:30:26] [Server thread/WARN]: Fetching packet for removed entity bcv['Rotten Flesh'/166526, l='ServerLevel[world]', x=-23.21, y=119.00, z=-24.62]
-[00:30:26] [Server thread/WARN]: Fetching packet for removed entity bcv['Gold Nugget'/166529, l='ServerLevel[world]', x=-22.13, y=119.00, z=-24.73]
-[00:30:26] [Server thread/WARN]: Fetching packet for removed entity aqg['Experience Orb'/166521, l='ServerLevel[world]', x=-22.25, y=119.00, z=-24.40]
-[00:34:02] [Server thread/INFO]: There are 2 of a max of 10 players online: TheDravirus, A10ElTaco
-[00:34:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2197ms or 43 ticks behind
-[00:34:33] [Server thread/INFO]: _SPEEDEE_[/192.168.0.3:58530] logged in with entity id 168648 at (-235.41672956198275, 51.0, -196.54993001371537)
-[00:34:33] [Server thread/INFO]: _SPEEDEE_ joined the game
-[00:37:42] [Server thread/INFO]: [_SPEEDEE_: Gave 200 [Block of Redstone] to _SPEEDEE_]
-[00:37:51] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
-[00:46:05] [Server thread/INFO]: TheDravirus has made the advancement [Best Friends Forever]
-[00:49:36] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
-[00:51:12] [Server thread/INFO]: DNafar[/188.77.147.173:55092] logged in with entity id 179118 at (-905.7556806361276, 40.0, -1869.7309922162535)
-[00:51:12] [Server thread/INFO]: DNafar joined the game
-[00:59:55] [Server thread/INFO]: oscar[/188.77.147.181:57958] logged in with entity id 185220 at (-486.88703139043344, 63.0, 646.350186578133)
-[00:59:55] [Server thread/INFO]: oscar joined the game
-[01:01:22] [Server thread/WARN]: Fetching packet for removed entity bcv['Oak Log'/187188, l='ServerLevel[world]', x=-85.43, y=66.76, z=-190.80]
-[01:02:32] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
-[01:02:40] [Server thread/INFO]: TheDravirus lost connection: Disconnected
-[01:02:40] [Server thread/INFO]: TheDravirus left the game
-[01:02:44] [Server thread/INFO]: TheDravirus[/88.21.222.60:59981] logged in with entity id 188844 at (-48.43497119381887, 73.525, -139.50005038185355)
-[01:02:44] [Server thread/INFO]: TheDravirus joined the game
-[01:02:44] [Server thread/WARN]: Fetching packet for removed entity bcv['Oak Log'/188841, l='ServerLevel[world]', x=-85.99, y=64.04, z=-197.57]
-[01:03:16] [Server thread/INFO]: TheDravirus lost connection: Disconnected
-[01:03:16] [Server thread/INFO]: TheDravirus left the game
-[01:03:18] [Server thread/INFO]: TheDravirus[/88.21.222.60:59990] logged in with entity id 189045 at (-48.75146484375, 73.525, -139.651123046875)
-[01:03:18] [Server thread/INFO]: TheDravirus joined the game
-[01:03:36] [Server thread/INFO]: TheDravirus lost connection: Disconnected
-[01:03:36] [Server thread/INFO]: TheDravirus left the game
-[01:03:43] [Server thread/INFO]: TheDravirus[/88.21.222.60:59997] logged in with entity id 189165 at (-49.01318359375, 73.525, -139.2275390625)
-[01:03:43] [Server thread/INFO]: TheDravirus joined the game
-[01:04:02] [Server thread/INFO]: TheDravirus lost connection: Disconnected
-[01:04:02] [Server thread/INFO]: TheDravirus left the game
-[01:04:06] [Server thread/INFO]: TheDravirus[/88.21.222.60:60008] logged in with entity id 189259 at (-49.01318359375, 73.525, -139.2275390625)
-[01:04:06] [Server thread/INFO]: TheDravirus joined the game
-[01:04:39] [Server thread/INFO]: TheDravirus lost connection: Disconnected
-[01:04:39] [Server thread/INFO]: TheDravirus left the game
-[01:04:42] [Server thread/INFO]: TheDravirus[/88.21.222.60:60019] logged in with entity id 189388 at (-48.68059223483123, 73.525, -139.3317788289303)
-[01:04:42] [Server thread/INFO]: TheDravirus joined the game
-[01:09:14] [Server thread/INFO]: TheDravirus lost connection: Disconnected
-[01:09:14] [Server thread/INFO]: TheDravirus left the game
-[01:09:16] [Server thread/INFO]: TheDravirus[/88.21.222.60:60165] logged in with entity id 190604 at (-46.3017578125, 72.525, -142.3017578125)
-[01:09:17] [Server thread/INFO]: TheDravirus joined the game
-[01:10:14] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
-[01:10:21] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[01:11:14] [Server thread/WARN]: Fetching packet for removed entity bcv['Oak Log'/191171, l='ServerLevel[world]', x=-83.70, y=68.37, z=-195.55]
-[01:14:03] [Server thread/WARN]: oscar moved too quickly! 2.5985726201262906,5.034456167439075,16.838632018714065
-[01:16:06] [Server thread/INFO]: [DNafar: Set the weather to clear]
-[01:16:38] [Server thread/INFO]: <DNafar> que haceis abajo
-[01:17:30] [Server thread/INFO]: oscar experienced kinetic energy
-[01:17:36] [Server thread/INFO]: <TheDravirus> jajajaaja
-[01:17:39] [Server thread/INFO]: <DNafar> XD
-[01:17:39] [Server thread/INFO]: <_SPEEDEE_> xDD
-[01:21:11] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[01:21:12] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
-[01:21:14] [Server thread/INFO]: oscar fell off scaffolding
-[01:26:30] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[01:29:03] [Server thread/WARN]: oscar moved too quickly! 6.4840455457178905,-15.548971001260952,4.19402044616271
-[01:29:03] [Server thread/WARN]: TheDravirus moved too quickly! 17.584812344556667,4.101114235213217,-0.02244127044934885
-[01:31:44] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[01:32:19] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
-[01:34:04] [Server thread/WARN]: DNafar moved too quickly! 2.918072059600803,-1.4891210957082706,-17.697673456936002
-[01:37:20] [Server thread/WARN]: oscar was kicked for floating too long!
-[01:37:20] [Server thread/INFO]: oscar lost connection: Flying is not enabled on this server
-[01:37:20] [Server thread/INFO]: oscar left the game
-[01:37:38] [Server thread/INFO]: oscar[/188.77.147.181:58090] logged in with entity id 214470 at (2885.10058136033, 237.36834962474614, 769.0439874051575)
-[01:37:38] [Server thread/INFO]: oscar joined the game
-[01:38:08] [Server thread/WARN]: Fetching packet for removed entity bgy['Trident'/215022, l='ServerLevel[world]', x=2935.49, y=59.77, z=772.86]
-[01:39:03] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
-[01:39:04] [Server thread/INFO]: [DNafar: Set the time to 0]
-[01:39:04] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[01:44:08] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[01:49:43] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[01:49:58] [Server thread/INFO]: oscar has made the advancement [Sticky Situation]
-[01:51:09] [Server thread/WARN]: A10ElTaco moved wrongly!
-[01:54:07] [Server thread/INFO]: oscar was blown up by Creeper
-[01:54:47] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[01:55:13] [Server thread/INFO]: [_SPEEDEE_: Teleported oscar to TheDravirus]
-[01:59:31] [Server thread/WARN]: oscar moved too quickly! -16.830219868515087,-1.6304448595912788,-6.938490821991991
-[01:59:31] [Server thread/WARN]: TheDravirus moved too quickly! -16.397650903560134,-2.39544919121613,-7.499161809056432
-[01:59:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2613ms or 52 ticks behind
-[01:59:40] [Server thread/WARN]: oscar moved too quickly! -16.66543893205062,-1.4795162615432247,-6.901178604417055
-[01:59:40] [Server thread/WARN]: TheDravirus moved too quickly! -15.67375920892573,3.501057367627709,-7.800836759955246
-[01:59:40] [Server thread/WARN]: _SPEEDEE_ moved too quickly! -12.984632526626967,-3.606600656606311,-11.09842026977941
-[01:59:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2845ms or 56 ticks behind
-[01:59:57] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[02:00:01] [Server thread/WARN]: TheDravirus moved too quickly! -13.315459115764043,-1.8382250536323994,-11.26297982848746
-[02:02:03] [Server thread/INFO]: oscar fell from a high place
-[02:02:14] [Server thread/INFO]: [_SPEEDEE_: Teleported oscar to TheDravirus]
-[02:03:20] [Server thread/WARN]: Fetching packet for removed entity bcv['Poppy'/240940, l='ServerLevel[world]', x=-99.30, y=47.00, z=-164.30]
-[02:05:09] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[02:07:44] [Server thread/INFO]: DNafar lost connection: Disconnected
-[02:07:44] [Server thread/INFO]: DNafar left the game
-[02:07:46] [Server thread/INFO]: DNafar[/188.77.147.173:55628] logged in with entity id 247935 at (-94.63726233060379, 128.0, -364.42478929738144)
-[02:07:46] [Server thread/INFO]: DNafar joined the game
-[02:10:23] [Server thread/INFO]: [DNafar: Set the weather to clear]
-[02:10:56] [Server thread/WARN]: TheDravirus moved wrongly!
-[02:11:19] [Server thread/INFO]: [DNafar: Set the time to 0]
-[02:13:03] [Server thread/WARN]: Fetching packet for removed entity bcv['Bone'/251955, l='ServerLevel[world]', x=-141.22, y=63.30, z=-114.53]
-[02:13:11] [Server thread/INFO]: <DNafar> KEKWWWWWWWWWWWWWWWW
-[02:14:15] [Server thread/WARN]: TheDravirus moved wrongly!
-[02:15:06] [Server thread/WARN]: TheDravirus moved wrongly!
-[02:15:08] [Server thread/WARN]: TheDravirus moved wrongly!
-[02:15:47] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[02:17:54] [Server thread/WARN]: Fetching packet for removed entity bcv['White Carpet'/254753, l='ServerLevel[world]', x=-34.65, y=70.28, z=-141.13]
-[02:20:54] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[02:22:19] [Server thread/WARN]: TheDravirus moved wrongly!
-[02:22:35] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[02:22:38] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
-[02:23:33] [Server thread/WARN]: Fetching packet for removed entity bcv['White Carpet'/257638, l='ServerLevel[world]', x=-35.62, y=70.76, z=-141.64]
-[02:24:09] [Server thread/WARN]: A10ElTaco moved too quickly! 14.769571577978468,-2.0319580287548007,-9.027747632111527
-[02:27:38] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[02:29:09] [Server thread/WARN]: A10ElTaco moved too quickly! 17.908884149668438,0.4711730060525383,1.5734023317650099
-[02:30:57] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-34, y=69, z=-141} fx{x=-34, y=67, z=-142}
-[02:30:57] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-34, y=69, z=-141} fx{x=-34, y=67, z=-142}
-[02:31:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-34, y=69, z=-141} fx{x=-34, y=67, z=-142}
-[02:32:30] [Server thread/INFO]: A10ElTaco was shot by _SPEEDEE_ using [Evolas]
-[02:33:00] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[02:33:15] [Server thread/INFO]: A10ElTaco was shot by _SPEEDEE_ using [Evolas]
-[02:34:19] [Server thread/INFO]: A10ElTaco was shot by _SPEEDEE_ using [Evolas]
-[02:34:25] [Server thread/INFO]: [_SPEEDEE_: Teleported oscar to TheDravirus]
-[02:34:27] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[02:34:29] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
-[02:34:34] [Server thread/INFO]: [_SPEEDEE_: Teleported oscar to _SPEEDEE_]
-[02:36:07] [Server thread/INFO]: A10ElTaco was shot by _SPEEDEE_ using [Evolas]
-[02:36:18] [Server thread/WARN]: Fetching packet for removed entity bcv['Elytra'/272673, l='ServerLevel[world]', x=-130.88, y=62.78, z=-205.81]
-[02:36:57] [Server thread/INFO]: A10ElTaco was shot by _SPEEDEE_ using [Evolas]
-[02:37:57] [Server thread/INFO]: A10ElTaco was burnt to a crisp whilst fighting _SPEEDEE_
-[02:38:46] [Server thread/INFO]: <_SPEEDEE_> 0-
-[02:38:49] [Server thread/INFO]: <_SPEEDEE_> 0-7
-[02:39:36] [Server thread/INFO]: <DNafar> BRA71L OMEGALUL
-[02:40:05] [Server thread/INFO]: A10ElTaco was shot by _SPEEDEE_ using [Evolas]
-[02:40:25] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[02:40:29] [Server thread/INFO]: <_SPEEDEE_> 0-8
-[02:41:03] [Server thread/WARN]: Fetching packet for removed entity bcv['White Carpet'/275121, l='ServerLevel[world]', x=-35.88, y=70.67, z=-142.88]
-[02:41:03] [Server thread/WARN]: Fetching packet for removed entity bcv['White Carpet'/275122, l='ServerLevel[world]', x=-35.88, y=70.63, z=-140.12]
-[02:41:12] [Server thread/WARN]: Fetching packet for removed entity bcv['White Carpet'/275206, l='ServerLevel[world]', x=-35.88, y=70.67, z=-142.54]
-[02:41:14] [Server thread/INFO]: A10ElTaco was slain by _SPEEDEE_ using [La Espada]
-[02:41:33] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[02:41:36] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
-[02:41:39] [Server thread/INFO]: <_SPEEDEE_> 0-9
-[02:42:40] [Server thread/INFO]: _SPEEDEE_ was shot by A10ElTaco using [tu puta madre]
-[02:46:46] [Server thread/INFO]: [DNafar: Set the weather to clear]
-[02:46:59] [Server thread/INFO]: A10ElTaco lost connection: Disconnected
-[02:46:59] [Server thread/INFO]: A10ElTaco left the game
-[02:48:59] [Server thread/INFO]: oscar experienced kinetic energy
-[02:51:31] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
-[02:51:35] [Server thread/INFO]: <_SPEEDEE_> 1-9
-[02:51:54] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
-[02:51:57] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[02:55:05] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/287083, l='ServerLevel[world]', x=-141.28, y=63.06, z=-114.73]
-[02:57:16] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[02:57:17] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
-[03:02:21] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
-[03:02:21] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[03:07:25] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[03:11:51] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
-[03:12:28] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[03:17:31] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[03:19:09] [Server thread/WARN]: oscar moved too quickly! -16.14885478846486,-2.4903654778803457,-9.237893017921976
-[03:19:09] [Server thread/WARN]: _SPEEDEE_ moved too quickly! -12.026270595744904,2.854769524151152,12.499307698879875
-[03:20:39] [Server thread/INFO]: oscar fell from a high place
-[03:21:21] [Server thread/WARN]: Fetching packet for removed entity bcv['Cactus'/307561, l='ServerLevel[world]', x=-167.88, y=63.67, z=-315.88]
-[03:22:19] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
-[03:23:44] [Server thread/INFO]: oscar was killed by [Jabalina Jhonsson] trying to hurt TheDravirus
-[03:24:30] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[03:28:34] [Server thread/WARN]: Fetching packet for removed entity bcv['White Carpet'/309996, l='ServerLevel[world]', x=-35.88, y=70.90, z=-142.94]
-[03:28:39] [Server thread/WARN]: Fetching packet for removed entity bcv['White Carpet'/310029, l='ServerLevel[world]', x=-35.88, y=70.26, z=-140.77]
-[03:28:47] [Server thread/WARN]: Fetching packet for removed entity bcv['Iron Ingot'/310127, l='ServerLevel[world]', x=-99.06, y=47.35, z=-162.59]
-[03:28:56] [Server thread/INFO]: oscar was slain by TheDravirus
-[03:29:06] [Server thread/WARN]: Fetching packet for removed entity bcv['White Carpet'/310334, l='ServerLevel[world]', x=-35.88, y=70.56, z=-142.56]
-[03:29:20] [Server thread/WARN]: Fetching packet for removed entity bcv['Slimeball'/310474, l='ServerLevel[world]', x=-146.48, y=13.44, z=-103.62]
-[03:29:49] [Server thread/WARN]: Fetching packet for removed entity bcv['White Carpet'/310747, l='ServerLevel[world]', x=-35.88, y=70.88, z=-142.91]
-[03:29:57] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[03:30:17] [Server thread/WARN]: Fetching packet for removed entity bcv['White Carpet'/311038, l='ServerLevel[world]', x=-35.14, y=70.74, z=-140.85]
-[03:31:56] [Server thread/WARN]: Fetching packet for removed entity bcv['White Carpet'/312840, l='ServerLevel[world]', x=-35.88, y=70.00, z=-140.40]
-[03:31:56] [Server thread/WARN]: Fetching packet for removed entity bcv['White Carpet'/312845, l='ServerLevel[world]', x=-35.88, y=70.91, z=-143.04]
-[03:32:05] [Server thread/WARN]: Fetching packet for removed entity bcv['White Carpet'/312979, l='ServerLevel[world]', x=-35.88, y=70.02, z=-141.67]
-[03:32:33] [Server thread/WARN]: Fetching packet for removed entity bcv['White Carpet'/313391, l='ServerLevel[world]', x=-35.88, y=70.66, z=-140.88]
-[03:34:27] [Server thread/WARN]: Fetching packet for removed entity bcv['White Carpet'/314644, l='ServerLevel[world]', x=-35.88, y=70.00, z=-142.52]
-[03:34:28] [Server thread/WARN]: Fetching packet for removed entity bcv['White Carpet'/314654, l='ServerLevel[world]', x=-35.88, y=70.82, z=-142.83]
-[03:36:51] [Server thread/WARN]: Fetching packet for removed entity bcv['White Carpet'/316628, l='ServerLevel[world]', x=-35.88, y=70.72, z=-142.66]
-[03:36:53] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[03:36:54] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
-[03:37:08] [Server thread/WARN]: Fetching packet for removed entity bcv['White Carpet'/316821, l='ServerLevel[world]', x=-35.88, y=70.73, z=-142.23]
-[03:37:51] [Server thread/WARN]: Fetching packet for removed entity bcv['White Carpet'/317328, l='ServerLevel[world]', x=-35.88, y=70.00, z=-142.81]
-[03:38:05] [Server thread/INFO]: oscar lost connection: Disconnected
-[03:38:05] [Server thread/INFO]: oscar left the game
-[03:39:01] [Server thread/WARN]: Fetching packet for removed entity bcv['White Carpet'/318135, l='ServerLevel[world]', x=-35.88, y=70.69, z=-142.64]
-[03:41:08] [Server thread/WARN]: Fetching packet for removed entity bcv['White Carpet'/319521, l='ServerLevel[world]', x=-35.88, y=70.34, z=-142.51]
-[03:42:02] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[03:45:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-262, y=61, z=-214} fx{x=71, y=58, z=-75}
-[03:46:47] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
-[03:47:05] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[03:47:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=70, y=54, z=-72} fx{x=70, y=53, z=-73}
-[03:47:52] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=72, y=52, z=-70} fx{x=72, y=53, z=-69}
-[03:49:36] [Server thread/INFO]: _SPEEDEE_ lost connection: Disconnected
-[03:49:36] [Server thread/INFO]: _SPEEDEE_ left the game
-[03:49:37] [Server thread/INFO]: _SPEEDEE_[/192.168.0.3:62949] logged in with entity id 323812 at (71.42110224008916, 54.0, -68.51516116910497)
-[03:49:37] [Server thread/INFO]: _SPEEDEE_ joined the game
-[03:49:42] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=71, y=52, z=-61} fx{x=71, y=52, z=-62}
-[03:49:46] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=71, y=53, z=-60} fx{x=71, y=52, z=-59}
-[03:49:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=70, y=54, z=-58} fx{x=71, y=53, z=-57}
-[03:49:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=70, y=54, z=-58} fx{x=70, y=53, z=-57}
-[03:49:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=70, y=54, z=-58} fx{x=70, y=53, z=-57}
-[03:49:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=70, y=54, z=-58} fx{x=70, y=53, z=-57}
-[03:49:50] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=70, y=54, z=-58} fx{x=71, y=54, z=-58}
-[03:49:50] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=70, y=54, z=-58} fx{x=71, y=54, z=-58}
-[03:49:50] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=70, y=54, z=-58} fx{x=71, y=54, z=-58}
-[03:49:50] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=70, y=54, z=-58} fx{x=71, y=54, z=-58}
-[03:49:50] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=70, y=54, z=-58} fx{x=71, y=54, z=-58}
-[03:50:26] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=70, y=58, z=-50} fx{x=69, y=58, z=-48}
-[03:50:59] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=69, y=54, z=-67} fx{x=69, y=52, z=-67}
-[03:51:00] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=69, y=54, z=-67} fx{x=69, y=53, z=-68}
-[03:51:00] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=69, y=54, z=-67} fx{x=69, y=53, z=-68}
-[03:51:00] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=69, y=54, z=-67} fx{x=69, y=53, z=-68}
-[03:51:00] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=69, y=54, z=-67} fx{x=69, y=53, z=-68}
-[03:52:10] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[03:52:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=65, y=54, z=-65} fx{x=65, y=53, z=-66}
-[03:52:57] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=65, y=61, z=-53} fx{x=65, y=58, z=-52}
-[03:56:42] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[03:56:45] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
-[03:57:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=65, y=51, z=-68} fx{x=65, y=50, z=-69}
-[04:01:47] [Server thread/INFO]: [DNafar: Set the weather to clear]
-[04:05:31] [Server thread/INFO]: DNafar fell from a high place
-[04:05:48] [Server thread/INFO]: [_SPEEDEE_: Teleported DNafar to _SPEEDEE_]
-[04:06:29] [Server thread/INFO]: DNafar lost connection: Disconnected
-[04:06:29] [Server thread/INFO]: DNafar left the game
-[04:06:31] [Server thread/INFO]: TheDravirus lost connection: Disconnected
-[04:06:31] [Server thread/INFO]: TheDravirus left the game
-[04:06:54] [Server thread/INFO]: _SPEEDEE_ lost connection: Disconnected
-[04:06:54] [Server thread/INFO]: _SPEEDEE_ left the game
-[04:07:16] [Server thread/INFO]: DNafar[/188.77.147.173:56628] logged in with entity id 329857 at (65.30000001192093, 43.0, -50.82019875909809)
-[04:07:16] [Server thread/INFO]: DNafar joined the game
-[04:07:29] [Server thread/INFO]: DNafar lost connection: Disconnected
-[04:07:29] [Server thread/INFO]: DNafar left the game
-[04:07:36] [Server thread/INFO]: There are 0 of a max of 10 players online: 
-[04:07:39] [Server thread/INFO]: Stopping the server
-[04:07:39] [Server thread/INFO]: Stopping server
-[04:07:39] [Server thread/INFO]: Saving players
-[04:07:39] [Server thread/INFO]: Saving worlds
-[04:07:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:07:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:07:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[04:07:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:07:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[04:07:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:07:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:07:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:07:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:15:47] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:15:48] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[19:15:48] [Worker-Main-13/INFO]: Loaded 7 recipes
+[19:15:50] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[19:15:50] [Server thread/INFO]: Loading properties
+[19:15:51] [Server thread/INFO]: This server is running CraftBukkit version 2991-Spigot-018b9a0-f3f3094 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[19:15:51] [Server thread/INFO]: Debug logging is disabled
+[19:15:51] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:15:51] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:15:51] [Server thread/INFO]: Default game type: SURVIVAL
+[19:15:51] [Server thread/INFO]: Generating keypair
+[19:15:52] [Server thread/INFO]: Starting Minecraft server on 192.168.0.3:25565
+[19:15:52] [Server thread/INFO]: Using default channel type
+[19:15:54] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v13.8.8
+[19:15:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:15:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:15:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:15:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:15:54] [Server thread/INFO]: Preparing level "world"
+[19:15:54] [Server thread/INFO]: -------- World Settings For [world] --------
+[19:15:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:15:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:15:54] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:15:54] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:15:54] [Server thread/INFO]: View Distance: 10
+[19:15:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[19:15:54] [Server thread/INFO]: Mob Spawn Range: 6
+[19:15:54] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:15:54] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[19:15:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:15:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:15:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[19:15:54] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:15:54] [Server thread/INFO]: Max TNT Explosions: 100
+[19:15:54] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[19:15:54] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[19:15:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:15:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:15:54] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:15:54] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:15:54] [Server thread/INFO]: View Distance: 10
+[19:15:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:15:54] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[19:15:54] [Server thread/INFO]: Mob Spawn Range: 6
+[19:15:54] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:15:54] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[19:15:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:15:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:15:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[19:15:54] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:15:54] [Server thread/INFO]: Max TNT Explosions: 100
+[19:15:54] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[19:15:55] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[19:15:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:15:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:15:55] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:15:55] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:15:55] [Server thread/INFO]: View Distance: 10
+[19:15:55] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:15:55] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:15:55] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:15:55] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:15:55] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:15:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:15:55] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:15:55] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:15:55] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:15:55] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:15:55] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:15:55] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:15:55] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:15:55] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:15:55] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:15:55] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:15:55] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[19:15:55] [Server thread/INFO]: Mob Spawn Range: 6
+[19:15:55] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:15:55] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[19:15:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:15:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:15:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[19:15:55] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:15:55] [Server thread/INFO]: Max TNT Explosions: 100
+[19:15:55] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[19:15:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:15:56] [Server thread/INFO]: Preparing spawn area: 0%
+[19:15:56] [Server thread/INFO]: Preparing spawn area: 0%
+[19:15:56] [Server thread/INFO]: Preparing spawn area: 0%
+[19:15:56] [Server thread/INFO]: Preparing spawn area: 0%
+[19:15:57] [Server thread/INFO]: Preparing spawn area: 0%
+[19:15:57] [Server thread/INFO]: Time elapsed: 2875 ms
+[19:15:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:15:59] [Server thread/INFO]: Preparing spawn area: 0%
+[19:15:59] [Server thread/INFO]: Preparing spawn area: 0%
+[19:15:59] [Server thread/INFO]: Preparing spawn area: 0%
+[19:15:59] [Server thread/INFO]: Time elapsed: 1473 ms
+[19:15:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:15:59] [Server thread/INFO]: Preparing spawn area: 0%
+[19:15:59] [Server thread/INFO]: Time elapsed: 454 ms
+[19:15:59] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v13.8.8
+[19:15:59] [Server thread/INFO]: [SkinsRestorer] Failed PaperSkinRefresher
+[19:15:59] [Server thread/INFO]: [SkinsRestorer] Using SpigotSkinRefresher
+[19:15:59] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1mDetected Minecraft [0;33;1mv1_16_R3[0;32;1m, using [0;33;1mUniversalSkinFactory[0;32;1m.[m
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value PREFIX to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value HELP_SKIN_CLEAR to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value HELP_SKIN_CLEAR_OTHER to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value HELP_SKIN_UPDATE to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value HELP_SKIN_UPDATE_OTHER to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value HELP_SKIN_SET to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value HELP_SKIN_SET_OTHER to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value HELP_SKIN_SET_OTHER_URL to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value HELP_SR_RELOAD to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value HELP_SR_STATUS to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value HELP_SR_DROP to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value HELP_SR_PROPS to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SYNTAX_DEFAULTCOMMAND to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SYNTAX_SKINSET to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SYNTAX_SKINSET_OTHER to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SYNTAX_SKINURL to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SYNTAX_SKINUPDATE_OTHER to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SYNTAX_SKINCLEAR_OTHER to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value PLAYER_HAS_NO_PERMISSION_SKIN to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value PLAYER_HAS_NO_PERMISSION_URL to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SKIN_DISABLED to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value NOT_PREMIUM to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value INVALID_PLAYER to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SKIN_COOLDOWN to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SKIN_CHANGE_SUCCESS to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SKIN_CLEAR_SUCCESS to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SKIN_CLEAR_ISSUER to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value MS_UPDATING_SKIN to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SUCCESS_UPDATING_SKIN to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SUCCESS_UPDATING_SKIN_OTHER to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value ERROR_UPDATING_SKIN to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value ERROR_UPDATING_URL to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value ERROR_UPDATING_CUSTOMSKIN to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value ERROR_INVALID_URLSKIN_2 to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value ERROR_MS_FULL to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value ERROR_MS_GENERIC to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value GENERIC_ERROR to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value WAIT_A_MINUTE to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value ERROR_NO_SKIN to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SKINSMENU_OPEN to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SKINSMENU_TITLE_NEW to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SKINSMENU_NEXT_PAGE to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SKINSMENU_PREVIOUS_PAGE to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SKINSMENU_REMOVE_SKIN to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SKINSMENU_SELECT_SKIN to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value ADMIN_SET_SKIN to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value DATA_DROPPED to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value STATUS_OK to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value ALT_API_FAILED to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value MS_API_FAILED to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value NO_SKIN_DATA to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value RELOAD to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value OUTDATED to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SR_LINE to messages.yml
+[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value HELP_PLAYER to messages.yml
+[19:16:01] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:16:02] [Server thread/INFO]: Done (7.394s)! For help, type "help"
+[19:16:02] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
+[19:16:02] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
+[19:16:02] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    | SkinsRestorer |[m
+[19:16:02] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    |---------------|[m
+[19:16:02] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    |   [0;34;1m[4m[21mBukkit only[0;32;1m |[m
+[19:16:02] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
+[19:16:02] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
+[19:16:02] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;36;1m    Current version: [0;32;1m13.8.8[m
+[19:16:02] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    This is the latest version![m
+[19:16:02] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
+[19:16:12] [User Authenticator #1/INFO]: UUID of player _SPEEDEE_ is f039a4b9-fd41-317f-b2ae-208effdafc06
+[19:16:13] [Server thread/INFO]: _SPEEDEE_[/192.168.0.3:63005] logged in with entity id 688 at ([world]-214.9701035883865, 60.0, -205.27592336304136)
+[19:16:27] [User Authenticator #2/INFO]: UUID of player otescoter99 is f5cf22bb-af07-3306-b254-69fcaa69a23a
+[19:16:27] [Server thread/INFO]: otescoter99[/5.183.221.34:61778] logged in with entity id 921 at ([world]-135.52737833826484, 67.0, -86.59287770527857)
+[19:16:31] [Server thread/INFO]: _SPEEDEE_ issued server command: /gamemode survival
+[19:16:31] [Server thread/INFO]: [_SPEEDEE_: Set own game mode to Survival Mode]
+[19:16:48] [Server thread/INFO]: _SPEEDEE_ issued server command: /weather clear
+[19:16:48] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
+[19:18:32] [Server thread/INFO]: otescoter99 lost connection: Disconnected
+[19:18:32] [Server thread/INFO]: otescoter99 left the game
+[19:18:48] [Server thread/INFO]: _SPEEDEE_ lost connection: Disconnected
+[19:18:48] [Server thread/INFO]: _SPEEDEE_ left the game
+[19:19:45] [User Authenticator #3/INFO]: UUID of player otescoter99 is f5cf22bb-af07-3306-b254-69fcaa69a23a
+[19:19:45] [Server thread/INFO]: otescoter99[/5.183.221.34:37917] logged in with entity id 1337 at ([world]-177.7811751524218, 77.0, -208.52206713447876)
+[19:20:52] [Server thread/INFO]: otescoter99 lost connection: Disconnected
+[19:20:52] [Server thread/INFO]: otescoter99 left the game
+[19:29:49] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[19:29:54] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[19:29:56] [Server thread/INFO]: Stopping the server
+[19:29:56] [Server thread/INFO]: Stopping server
+[19:29:56] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v13.8.8
+[19:29:56] [Server thread/INFO]: Saving players
+[19:29:57] [Server thread/INFO]: Saving worlds
+[19:29:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:29:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:29:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[19:29:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:29:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[19:29:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:29:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:29:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:29:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

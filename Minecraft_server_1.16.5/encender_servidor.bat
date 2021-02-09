@@ -1,1 +1,1 @@
-java -Xmx4096M -Xms4096M -jar server.jar nogui
+java -Xmx3072M -Xms3072M -jar spigot-1.16.5.jar nogui
