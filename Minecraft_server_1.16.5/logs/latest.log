@@ -1,233 +1,728 @@
-[19:15:47] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:15:48] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[19:15:48] [Worker-Main-13/INFO]: Loaded 7 recipes
-[19:15:50] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[19:15:50] [Server thread/INFO]: Loading properties
-[19:15:51] [Server thread/INFO]: This server is running CraftBukkit version 2991-Spigot-018b9a0-f3f3094 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[19:15:51] [Server thread/INFO]: Debug logging is disabled
-[19:15:51] [Server thread/INFO]: Using 4 threads for Netty based IO
-[19:15:51] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[19:15:51] [Server thread/INFO]: Default game type: SURVIVAL
-[19:15:51] [Server thread/INFO]: Generating keypair
-[19:15:52] [Server thread/INFO]: Starting Minecraft server on 192.168.0.3:25565
-[19:15:52] [Server thread/INFO]: Using default channel type
-[19:15:54] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v13.8.8
-[19:15:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:15:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:15:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:15:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:15:54] [Server thread/INFO]: Preparing level "world"
-[19:15:54] [Server thread/INFO]: -------- World Settings For [world] --------
-[19:15:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[19:15:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[19:15:54] [Server thread/INFO]: Item Merge Radius: 2.5
-[19:15:54] [Server thread/INFO]: Item Despawn Rate: 6000
-[19:15:54] [Server thread/INFO]: View Distance: 10
-[19:15:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: Cane Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: Melon Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: Potato Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: Vine Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[19:15:54] [Server thread/INFO]: Mob Spawn Range: 6
-[19:15:54] [Server thread/INFO]: Experience Merge Radius: 3.0
-[19:15:54] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[19:15:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[19:15:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[19:15:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[19:15:54] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[19:15:54] [Server thread/INFO]: Max TNT Explosions: 100
-[19:15:54] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[19:15:54] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[19:15:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[19:15:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[19:15:54] [Server thread/INFO]: Item Merge Radius: 2.5
-[19:15:54] [Server thread/INFO]: Item Despawn Rate: 6000
-[19:15:54] [Server thread/INFO]: View Distance: 10
-[19:15:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: Cane Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: Melon Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: Potato Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: Vine Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[19:15:54] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[19:15:54] [Server thread/INFO]: Mob Spawn Range: 6
-[19:15:54] [Server thread/INFO]: Experience Merge Radius: 3.0
-[19:15:54] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[19:15:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[19:15:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[19:15:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[19:15:54] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[19:15:54] [Server thread/INFO]: Max TNT Explosions: 100
-[19:15:54] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[19:15:55] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[19:15:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[19:15:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[19:15:55] [Server thread/INFO]: Item Merge Radius: 2.5
-[19:15:55] [Server thread/INFO]: Item Despawn Rate: 6000
-[19:15:55] [Server thread/INFO]: View Distance: 10
-[19:15:55] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[19:15:55] [Server thread/INFO]: Cane Growth Modifier: 100%
-[19:15:55] [Server thread/INFO]: Melon Growth Modifier: 100%
-[19:15:55] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[19:15:55] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[19:15:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[19:15:55] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[19:15:55] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[19:15:55] [Server thread/INFO]: Potato Growth Modifier: 100%
-[19:15:55] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[19:15:55] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[19:15:55] [Server thread/INFO]: Vine Growth Modifier: 100%
-[19:15:55] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[19:15:55] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[19:15:55] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[19:15:55] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[19:15:55] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[19:15:55] [Server thread/INFO]: Mob Spawn Range: 6
-[19:15:55] [Server thread/INFO]: Experience Merge Radius: 3.0
-[19:15:55] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[19:15:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[19:15:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[19:15:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[19:15:55] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[19:15:55] [Server thread/INFO]: Max TNT Explosions: 100
-[19:15:55] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[19:15:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:15:56] [Server thread/INFO]: Preparing spawn area: 0%
-[19:15:56] [Server thread/INFO]: Preparing spawn area: 0%
-[19:15:56] [Server thread/INFO]: Preparing spawn area: 0%
-[19:15:56] [Server thread/INFO]: Preparing spawn area: 0%
-[19:15:57] [Server thread/INFO]: Preparing spawn area: 0%
-[19:15:57] [Server thread/INFO]: Time elapsed: 2875 ms
-[19:15:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[19:15:59] [Server thread/INFO]: Preparing spawn area: 0%
-[19:15:59] [Server thread/INFO]: Preparing spawn area: 0%
-[19:15:59] [Server thread/INFO]: Preparing spawn area: 0%
-[19:15:59] [Server thread/INFO]: Time elapsed: 1473 ms
-[19:15:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[19:15:59] [Server thread/INFO]: Preparing spawn area: 0%
-[19:15:59] [Server thread/INFO]: Time elapsed: 454 ms
-[19:15:59] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v13.8.8
-[19:15:59] [Server thread/INFO]: [SkinsRestorer] Failed PaperSkinRefresher
-[19:15:59] [Server thread/INFO]: [SkinsRestorer] Using SpigotSkinRefresher
-[19:15:59] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1mDetected Minecraft [0;33;1mv1_16_R3[0;32;1m, using [0;33;1mUniversalSkinFactory[0;32;1m.[m
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value PREFIX to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value HELP_SKIN_CLEAR to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value HELP_SKIN_CLEAR_OTHER to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value HELP_SKIN_UPDATE to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value HELP_SKIN_UPDATE_OTHER to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value HELP_SKIN_SET to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value HELP_SKIN_SET_OTHER to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value HELP_SKIN_SET_OTHER_URL to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value HELP_SR_RELOAD to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value HELP_SR_STATUS to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value HELP_SR_DROP to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value HELP_SR_PROPS to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SYNTAX_DEFAULTCOMMAND to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SYNTAX_SKINSET to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SYNTAX_SKINSET_OTHER to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SYNTAX_SKINURL to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SYNTAX_SKINUPDATE_OTHER to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SYNTAX_SKINCLEAR_OTHER to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value PLAYER_HAS_NO_PERMISSION_SKIN to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value PLAYER_HAS_NO_PERMISSION_URL to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SKIN_DISABLED to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value NOT_PREMIUM to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value INVALID_PLAYER to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SKIN_COOLDOWN to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SKIN_CHANGE_SUCCESS to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SKIN_CLEAR_SUCCESS to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SKIN_CLEAR_ISSUER to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value MS_UPDATING_SKIN to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SUCCESS_UPDATING_SKIN to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SUCCESS_UPDATING_SKIN_OTHER to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value ERROR_UPDATING_SKIN to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value ERROR_UPDATING_URL to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value ERROR_UPDATING_CUSTOMSKIN to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value ERROR_INVALID_URLSKIN_2 to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value ERROR_MS_FULL to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value ERROR_MS_GENERIC to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value GENERIC_ERROR to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value WAIT_A_MINUTE to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value ERROR_NO_SKIN to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SKINSMENU_OPEN to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SKINSMENU_TITLE_NEW to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SKINSMENU_NEXT_PAGE to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SKINSMENU_PREVIOUS_PAGE to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SKINSMENU_REMOVE_SKIN to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SKINSMENU_SELECT_SKIN to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value ADMIN_SET_SKIN to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value DATA_DROPPED to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value STATUS_OK to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value ALT_API_FAILED to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value MS_API_FAILED to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value NO_SKIN_DATA to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value RELOAD to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value OUTDATED to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value SR_LINE to messages.yml
-[19:16:00] [Server thread/INFO]: [SkinsRestorer] Saving new config value HELP_PLAYER to messages.yml
-[19:16:01] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:16:02] [Server thread/INFO]: Done (7.394s)! For help, type "help"
-[19:16:02] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
-[19:16:02] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
-[19:16:02] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    | SkinsRestorer |[m
-[19:16:02] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    |---------------|[m
-[19:16:02] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    |   [0;34;1m[4m[21mBukkit only[0;32;1m |[m
-[19:16:02] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
-[19:16:02] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
-[19:16:02] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;36;1m    Current version: [0;32;1m13.8.8[m
-[19:16:02] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    This is the latest version![m
-[19:16:02] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
-[19:16:12] [User Authenticator #1/INFO]: UUID of player _SPEEDEE_ is f039a4b9-fd41-317f-b2ae-208effdafc06
-[19:16:13] [Server thread/INFO]: _SPEEDEE_[/192.168.0.3:63005] logged in with entity id 688 at ([world]-214.9701035883865, 60.0, -205.27592336304136)
-[19:16:27] [User Authenticator #2/INFO]: UUID of player otescoter99 is f5cf22bb-af07-3306-b254-69fcaa69a23a
-[19:16:27] [Server thread/INFO]: otescoter99[/5.183.221.34:61778] logged in with entity id 921 at ([world]-135.52737833826484, 67.0, -86.59287770527857)
-[19:16:31] [Server thread/INFO]: _SPEEDEE_ issued server command: /gamemode survival
-[19:16:31] [Server thread/INFO]: [_SPEEDEE_: Set own game mode to Survival Mode]
-[19:16:48] [Server thread/INFO]: _SPEEDEE_ issued server command: /weather clear
-[19:16:48] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
-[19:18:32] [Server thread/INFO]: otescoter99 lost connection: Disconnected
-[19:18:32] [Server thread/INFO]: otescoter99 left the game
-[19:18:48] [Server thread/INFO]: _SPEEDEE_ lost connection: Disconnected
-[19:18:48] [Server thread/INFO]: _SPEEDEE_ left the game
-[19:19:45] [User Authenticator #3/INFO]: UUID of player otescoter99 is f5cf22bb-af07-3306-b254-69fcaa69a23a
-[19:19:45] [Server thread/INFO]: otescoter99[/5.183.221.34:37917] logged in with entity id 1337 at ([world]-177.7811751524218, 77.0, -208.52206713447876)
-[19:20:52] [Server thread/INFO]: otescoter99 lost connection: Disconnected
-[19:20:52] [Server thread/INFO]: otescoter99 left the game
-[19:29:49] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[19:29:54] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[19:29:56] [Server thread/INFO]: Stopping the server
-[19:29:56] [Server thread/INFO]: Stopping server
-[19:29:56] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v13.8.8
-[19:29:56] [Server thread/INFO]: Saving players
-[19:29:57] [Server thread/INFO]: Saving worlds
-[19:29:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:29:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:29:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[19:29:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:29:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[19:29:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:29:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:29:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:29:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:39:07] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:39:08] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[16:39:09] [Worker-Main-13/INFO]: Loaded 7 recipes
+[16:39:11] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[16:39:11] [Server thread/INFO]: Loading properties
+[16:39:11] [Server thread/INFO]: This server is running CraftBukkit version 2991-Spigot-018b9a0-f3f3094 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[16:39:11] [Server thread/INFO]: Debug logging is disabled
+[16:39:11] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:39:11] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:39:12] [Server thread/INFO]: Default game type: SURVIVAL
+[16:39:12] [Server thread/INFO]: Generating keypair
+[16:39:13] [Server thread/INFO]: Starting Minecraft server on 192.168.0.3:25565
+[16:39:13] [Server thread/INFO]: Using default channel type
+[16:39:16] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[16:39:19] [Server thread/WARN]: Legacy plugin UltimateHeadFinder v1.1.0 does not specify an api-version.
+[16:39:19] [Server thread/WARN]: Legacy plugin F v1.1.4 does not specify an api-version.
+[16:39:19] [Server thread/WARN]: Legacy plugin ColorName v2.0.1 does not specify an api-version.
+[16:39:19] [Server thread/INFO]: [UltimateHeadFinder] Loading UltimateHeadFinder v1.1.0
+[16:39:19] [Server thread/INFO]: [DeathLocation] Loading DeathLocation v1.0
+[16:39:19] [Server thread/INFO]: [PluginConstructorAPI] Loading PluginConstructorAPI v1.0.52
+[16:39:19] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v13.8.8
+[16:39:19] [Server thread/INFO]: [Chairs] Loading Chairs v7.0
+[16:39:19] [Server thread/INFO]: [F] Loading F v1.1.4
+[16:39:19] [Server thread/INFO]: [SinglePlayerSleep] Loading SinglePlayerSleep v1.13_2.13.45.2
+[16:39:19] [Server thread/INFO]: [ChatColor2] Loading ChatColor2 v1.10.4
+[16:39:19] [Server thread/INFO]: [DeadChest] Loading DeadChest v4.3.0
+[16:39:19] [Server thread/INFO]: [DeadChest] Worldguard support disabled by user
+[16:39:19] [Server thread/INFO]: [ColorName] Loading ColorName v2.0.1
+[16:39:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:39:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:39:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:39:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:39:19] [Server thread/INFO]: Preparing level "world"
+[16:39:19] [Server thread/INFO]: -------- World Settings For [world] --------
+[16:39:19] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:39:19] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:39:19] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:39:19] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:39:19] [Server thread/INFO]: View Distance: 10
+[16:39:19] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[16:39:19] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:39:19] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:39:19] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:39:19] [Server thread/INFO]: Mob Spawn Range: 6
+[16:39:19] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[16:39:19] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 50 / Ra 48 / Mi 16 / Tiv true
+[16:39:19] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:39:19] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:39:19] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:39:19] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:39:19] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:39:19] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:39:19] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:39:19] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:39:19] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:39:19] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:39:19] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:39:19] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:39:19] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:39:19] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:39:19] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:39:19] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:39:19] [Server thread/INFO]: Max TNT Explosions: 100
+[16:39:19] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:39:19] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[16:39:20] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[16:39:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:39:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:39:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:39:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:39:20] [Server thread/INFO]: View Distance: 10
+[16:39:20] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[16:39:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:39:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:39:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:39:20] [Server thread/INFO]: Mob Spawn Range: 6
+[16:39:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[16:39:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 50 / Ra 48 / Mi 16 / Tiv true
+[16:39:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: Max TNT Explosions: 100
+[16:39:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:39:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[16:39:20] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[16:39:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:39:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:39:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:39:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:39:20] [Server thread/INFO]: View Distance: 10
+[16:39:20] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[16:39:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:39:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:39:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:39:20] [Server thread/INFO]: Mob Spawn Range: 6
+[16:39:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[16:39:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 50 / Ra 48 / Mi 16 / Tiv true
+[16:39:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:39:20] [Server thread/INFO]: Max TNT Explosions: 100
+[16:39:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:39:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[16:39:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:39:22] [Server thread/INFO]: Preparing spawn area: 0%
+[16:39:22] [Server thread/INFO]: Preparing spawn area: 0%
+[16:39:22] [Server thread/INFO]: Preparing spawn area: 0%
+[16:39:22] [Server thread/INFO]: Preparing spawn area: 0%
+[16:39:22] [Server thread/INFO]: Preparing spawn area: 0%
+[16:39:22] [Server thread/INFO]: Preparing spawn area: 0%
+[16:39:23] [Server thread/INFO]: Preparing spawn area: 75%
+[16:39:24] [Server thread/INFO]: Time elapsed: 3857 ms
+[16:39:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:39:25] [Server thread/INFO]: Preparing spawn area: 0%
+[16:39:25] [Server thread/INFO]: Preparing spawn area: 0%
+[16:39:25] [Server thread/INFO]: Preparing spawn area: 0%
+[16:39:25] [Server thread/INFO]: Preparing spawn area: 0%
+[16:39:26] [Server thread/INFO]: Time elapsed: 2033 ms
+[16:39:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:39:27] [Server thread/INFO]: Preparing spawn area: 0%
+[16:39:27] [Server thread/INFO]: Preparing spawn area: 0%
+[16:39:27] [Server thread/INFO]: Time elapsed: 1013 ms
+[16:39:27] [Server thread/INFO]: [UltimateHeadFinder] Enabling UltimateHeadFinder v1.1.0
+[16:39:27] [Server thread/INFO]: [DeathLocation] Enabling DeathLocation v1.0
+[16:39:27] [Server thread/INFO]: [DeathLocation] Plugin has been enabled!
+[16:39:27] [Server thread/INFO]: [PluginConstructorAPI] Enabling PluginConstructorAPI v1.0.52
+[16:39:27] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v13.8.8
+[16:39:27] [Server thread/INFO]: [SkinsRestorer] Failed PaperSkinRefresher
+[16:39:27] [Server thread/INFO]: [SkinsRestorer] Using SpigotSkinRefresher
+[16:39:27] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1mDetected Minecraft [0;33;1mv1_16_R3[0;32;1m, using [0;33;1mUniversalSkinFactory[0;32;1m.[m
+[16:39:29] [Server thread/INFO]: [Chairs] Enabling Chairs v7.0
+[16:39:29] [Server thread/INFO]: [F] Enabling F v1.1.4
+[16:39:29] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.13_2.13.45.2
+[16:39:29] [Server thread/INFO]: [1m[32m**************************************[0m
+[16:39:29] [Server thread/INFO]: [1m[33mSinglePlayerSleep v1.13_2.13.45.2[0m Loading...
+[16:39:29] [Server thread/INFO]: [1m[33mSinglePlayerSleep v1.13_2.13.45.2[0m plugins\SinglePlayerSleep\config.yml
+[16:39:29] [Server thread/INFO]: Checking for updates...[m
+[16:39:30] [Server thread/INFO]: [1m[33mSinglePlayerSleep v1.13_2.13.45.2[0m plugins\SinglePlayerSleep\permissions.yml
+[16:39:30] [Server thread/INFO]: [1m[32m**************************************[0m
+[16:39:30] [Server thread/INFO]: [1m[33mSinglePlayerSleep v1.13_2.13.45.2[0m is ENABLED
+[16:39:30] [Server thread/INFO]: [1m[32m**************************************[0m
+[16:39:30] [Server thread/INFO]: [1m[33mSinglePlayerSleep v1.13_2.13.45.2[0m This server is running CraftBukkit version 2991-Spigot-018b9a0-f3f3094 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[16:39:30] [Server thread/INFO]: [1m[33mSinglePlayerSleep v1.13_2.13.45.2[0m vardebug=false debug=false in plugins\SinglePlayerSleep/config.yml
+[16:39:30] [Server thread/INFO]: [1m[33mSinglePlayerSleep v1.13_2.13.45.2[0m jarfilename=D:\SPEDE\serevrs\servidores en git\Minecraft_server\Minecraft_server_1.16.5\plugins\SinglePlayerSleep-1.13_2.13.45.2.jar
+[16:39:30] [Server thread/INFO]: [ChatColor2] Enabling ChatColor2 v1.10.4
+[16:39:30] [Server thread/INFO]: [0;35;22m[21m[[0;33;22mChat[0;32;1mC[0;36;1mo[0;31;1ml[0;35;1mo[0;33;1mr[0;35;22m[21m] [0;33;1mChatColor 2 Version [0;36;1m1.10.4 [0;33;1mhas been [0;32;1menabled[0;33;1m.[m
+[16:39:30] [Server thread/INFO]: [0;35;22m[21m[[0;33;22mChat[0;32;1mC[0;36;1mo[0;31;1ml[0;35;1mo[0;33;1mr[0;35;22m[21m] [0;33;1mCurrent update: [0;36;1mSmall bug fixes :)[m
+[16:39:30] [Server thread/INFO]: [0;35;22m[21m[[0;33;22mChat[0;32;1mC[0;36;1mo[0;31;1ml[0;35;1mo[0;33;1mr[0;35;22m[21m] [0;33;1m[0;36;1mPlaceholderAPI not found, placeholders [0;31;1mwill not be available[0;36;1m.[m
+[16:39:30] [Server thread/INFO]: [0;35;22m[21m[[0;33;22mChat[0;32;1mC[0;36;1mo[0;31;1ml[0;35;1mo[0;33;1mr[0;35;22m[21m] [0;33;1m[0;36;1mMetrics [0;33;1mis [0;32;1menabled [0;33;1mfor this plugin. Stats sent to [0;36;1mhttps://bstats.org/plugin/bukkit/ChatColor2[m
+[16:39:30] [Server thread/INFO]: [DeadChest] Enabling DeadChest v4.3.0
+[16:39:30] [Server thread/INFO]: [ColorName] Enabling ColorName v2.0.1
+[16:39:30] [Server thread/INFO]: ColorNameVersion 2.0.1 Has Been Enabled
+[16:39:30] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:39:30] [Server thread/INFO]: Done (10.605s)! For help, type "help"
+[16:39:30] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
+[16:39:30] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
+[16:39:30] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    | SkinsRestorer |[m
+[16:39:30] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    |---------------|[m
+[16:39:30] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    |   [0;34;1m[4m[21mBukkit only[0;32;1m |[m
+[16:39:30] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
+[16:39:30] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
+[16:39:30] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;36;1m    Current version: [0;32;1m13.8.8[m
+[16:39:30] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    This is the latest version![m
+[16:39:30] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
+[16:39:31] [Craft Scheduler Thread - 3/WARN]: java.io.IOException: Server returned HTTP response code: 500 for URL: http://coremod.com/pluginMetrics/pluginMetrics.php?plugin=ColorName&ip=25565&players=0
+[16:39:31] [Craft Scheduler Thread - 3/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[16:39:31] [Craft Scheduler Thread - 3/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[16:39:31] [Craft Scheduler Thread - 3/WARN]: 	at me.forseth11.colorName.PluginMetrics.update(PluginMetrics.java:32)
+[16:39:31] [Craft Scheduler Thread - 3/WARN]: 	at me.forseth11.colorName.PluginMetrics$1.run(PluginMetrics.java:51)
+[16:39:31] [Craft Scheduler Thread - 3/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81)
+[16:39:31] [Craft Scheduler Thread - 3/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+[16:39:31] [Craft Scheduler Thread - 3/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[16:39:31] [Craft Scheduler Thread - 3/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[16:39:31] [Craft Scheduler Thread - 3/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:45:41] [User Authenticator #1/INFO]: UUID of player otescoter99 is f5cf22bb-af07-3306-b254-69fcaa69a23a
+[16:45:41] [Server thread/INFO]: otescoter99[/195.211.169.47:21565] logged in with entity id 756 at ([world]-184.15575542079026, 63.0, -242.84078282911753)
+[16:47:02] [Server thread/INFO]: There are 1 of a max of 10 players online: otescoter99
+[16:49:10] [Server thread/INFO]: otescoter99 lost connection: Disconnected
+[16:49:10] [Server thread/INFO]: otescoter99 left the game
+[16:49:16] [User Authenticator #2/INFO]: UUID of player otescoter99 is f5cf22bb-af07-3306-b254-69fcaa69a23a
+[16:49:16] [Server thread/INFO]: otescoter99[/195.211.169.47:63244] logged in with entity id 1639 at ([world]-272.1640435325023, 57.0, -204.53525953817183)
+[16:51:11] [Async Chat Thread - #0/INFO]: <[0;33;22motescoter99[m> [0;33;22mzzz[m
+[16:56:25] [Server thread/INFO]: otescoter99 lost connection: Disconnected
+[16:56:25] [Server thread/INFO]: otescoter99 left the game
+[16:59:46] [User Authenticator #3/INFO]: UUID of player otescoter99 is f5cf22bb-af07-3306-b254-69fcaa69a23a
+[16:59:46] [Server thread/INFO]: otescoter99[/195.211.169.47:63560] logged in with entity id 2832 at ([world]-120.53509430945633, 63.0, -237.28471060300896)
+[17:03:15] [User Authenticator #4/INFO]: UUID of player TheDiserky is 251a8f07-48b3-3f67-923e-2d0185975e05
+[17:03:15] [Server thread/INFO]: TheDiserky[/81.33.214.96:57086] logged in with entity id 3444 at ([world]-197.26366766155107, 69.0, -275.12651592484633)
+[17:03:20] [User Authenticator #5/INFO]: UUID of player vegeta33 is 222a24a4-9492-3a0b-840b-7cfe7a807b95
+[17:03:21] [Server thread/INFO]: vegeta33[/79.153.78.176:59681] logged in with entity id 3517 at ([world]-155.05540536869566, 63.5625, -205.37379560021088)
+[17:03:51] [Server thread/WARN]: otescoter99 moved too quickly! 39.44670757267559,-1.2551592765901205,-0.5706293645800713
+[17:03:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10853ms or 217 ticks behind
+[17:03:56] [Server thread/INFO]: vegeta33 lost connection: Disconnected
+[17:03:56] [Server thread/INFO]: vegeta33 left the game
+[17:04:03] [User Authenticator #6/INFO]: UUID of player vegeta33 is 222a24a4-9492-3a0b-840b-7cfe7a807b95
+[17:04:03] [Server thread/INFO]: vegeta33[/79.153.78.176:59705] logged in with entity id 3630 at ([world]-154.80903709050853, 63.5625, -205.68325303098908)
+[17:09:42] [Craft Scheduler Thread - 10/WARN]: java.io.IOException: Server returned HTTP response code: 500 for URL: http://coremod.com/pluginMetrics/pluginMetrics.php?plugin=ColorName&ip=25565&players=3
+[17:09:42] [Craft Scheduler Thread - 10/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[17:09:42] [Craft Scheduler Thread - 10/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[17:09:42] [Craft Scheduler Thread - 10/WARN]: 	at me.forseth11.colorName.PluginMetrics.update(PluginMetrics.java:32)
+[17:09:42] [Craft Scheduler Thread - 10/WARN]: 	at me.forseth11.colorName.PluginMetrics$1.run(PluginMetrics.java:51)
+[17:09:42] [Craft Scheduler Thread - 10/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81)
+[17:09:42] [Craft Scheduler Thread - 10/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+[17:09:42] [Craft Scheduler Thread - 10/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[17:09:42] [Craft Scheduler Thread - 10/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[17:09:42] [Craft Scheduler Thread - 10/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[17:13:48] [User Authenticator #7/INFO]: UUID of player TheDravirus is 16892524-8d5c-3b1a-8252-7c9a5405e06d
+[17:13:48] [Server thread/INFO]: TheDravirus[/88.21.222.60:57177] logged in with entity id 8039 at ([world_nether]-87.63808349088524, 41.875, 1145.9098848942874)
+[17:16:32] [Server thread/ERROR]: Block at -93, 62, -203 is Block{minecraft:water} but has net.minecraft.server.v1_16_R3.TileEntityChest@61eb08c9. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[17:16:32] [Server thread/ERROR]: Block at -92, 62, -203 is Block{minecraft:water} but has net.minecraft.server.v1_16_R3.TileEntityChest@7147ed10. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[17:16:33] [Server thread/ERROR]: Block at -94, 62, -203 is Block{minecraft:water} but has net.minecraft.server.v1_16_R3.TileEntityChest@18f2c30b. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[17:16:33] [Server thread/ERROR]: Block at -95, 62, -203 is Block{minecraft:water} but has net.minecraft.server.v1_16_R3.TileEntityChest@32c08680. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[17:25:28] [Server thread/INFO]: otescoter99 lost connection: Disconnected
+[17:25:28] [Server thread/INFO]: otescoter99 left the game
+[17:26:14] [User Authenticator #8/INFO]: UUID of player otescoter99 is f5cf22bb-af07-3306-b254-69fcaa69a23a
+[17:26:14] [Server thread/INFO]: otescoter99[/195.211.169.47:22459] logged in with entity id 15931 at ([world]-151.17494892313786, 63.0, -211.23587789511652)
+[17:32:07] [User Authenticator #9/INFO]: UUID of player DNafar is f0cd732e-6c9b-317f-99eb-aa9fb96d770b
+[17:32:08] [Server thread/INFO]: DNafar[/188.77.147.173:63144] logged in with entity id 17891 at ([world]-224.73674817336894, 57.0, -211.40089473049036)
+[17:35:57] [Server thread/INFO]: There are 5 of a max of 10 players online: TheDiserky, vegeta33, TheDravirus, otescoter99, DNafar
+[17:36:59] [Server thread/INFO]: [Server] [21m[0;31;22mF[m
+[17:36:59] [Server thread/INFO]: TheDravirus was slain by Piglin Brute
+[17:39:42] [Craft Scheduler Thread - 18/WARN]: java.io.IOException: Server returned HTTP response code: 500 for URL: http://coremod.com/pluginMetrics/pluginMetrics.php?plugin=ColorName&ip=25565&players=5
+[17:39:42] [Craft Scheduler Thread - 18/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[17:39:42] [Craft Scheduler Thread - 18/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[17:39:42] [Craft Scheduler Thread - 18/WARN]: 	at me.forseth11.colorName.PluginMetrics.update(PluginMetrics.java:32)
+[17:39:42] [Craft Scheduler Thread - 18/WARN]: 	at me.forseth11.colorName.PluginMetrics$1.run(PluginMetrics.java:51)
+[17:39:42] [Craft Scheduler Thread - 18/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81)
+[17:39:42] [Craft Scheduler Thread - 18/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+[17:39:42] [Craft Scheduler Thread - 18/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[17:39:42] [Craft Scheduler Thread - 18/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[17:39:42] [Craft Scheduler Thread - 18/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[17:42:43] [Server thread/INFO]: Villager EntityVillager['Villager'/341, l='ServerLevel[world]', x=-177.70, y=64.00, z=-219.30] died, message: 'Villager was slain by otescoter99'
+[17:44:51] [Server thread/WARN]: TheDravirus moved wrongly!
+[17:51:03] [Server thread/INFO]: DNafar issued server command: /weather clear
+[17:51:03] [Server thread/INFO]: [DNafar: Set the weather to clear]
+[17:51:44] [User Authenticator #10/INFO]: UUID of player vegeta33 is 222a24a4-9492-3a0b-840b-7cfe7a807b95
+[17:51:46] [Server thread/INFO]: vegeta33 lost connection: Disconnected
+[17:51:46] [Server thread/INFO]: vegeta33 left the game
+[17:51:46] [Server thread/INFO]: vegeta33[/79.153.78.176:59945] logged in with entity id 32377 at ([world]439.90404886572986, 81.01204047781474, 80.75121006722624)
+[17:51:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16537ms or 330 ticks behind
+[17:51:47] [Server thread/WARN]: TheDiserky moved too quickly! 11.728949498932593,-11.769812181525126,-4.53064220253475
+[17:52:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5652ms or 113 ticks behind
+[17:57:08] [Server thread/INFO]: DNafar issued server command: /weather clear
+[17:57:08] [Server thread/INFO]: [DNafar: Set the weather to clear]
+[17:57:56] [Server thread/INFO]: TheDravirus lost connection: Disconnected
+[17:57:56] [Server thread/INFO]: TheDravirus left the game
+[18:01:08] [Async Chat Thread - #1/INFO]: <[0;37;1mDNafar[m> [0;36;1mPerry[m
+[18:01:13] [Async Chat Thread - #1/INFO]: <[0;37;1mDNafar[m> [0;36;1mel Ortitoricoo[m
+[18:01:43] [Async Chat Thread - #1/INFO]: <[0;37;1mDNafar[m> [0;36;1mMas o menos 100 días hay de vacaciones y llegan las clases de nuevo[m
+[18:01:56] [Async Chat Thread - #1/INFO]: <[0;37;1mDNafar[m> [0;36;1mun problema en verano y en ocasiones es como pasarlo de miedo...[m
+[18:02:02] [Async Chat Thread - #1/INFO]: <[0;37;1mDNafar[m> [0;36;1mPodrías:[m
+[18:02:17] [Async Chat Thread - #1/INFO]: <[0;37;1mDNafar[m> [0;36;1mHacer un puente, luchar contra momias, escalar la Torre Eiffel[m
+[18:02:40] [Async Chat Thread - #1/INFO]: <[0;37;1mDNafar[m> [0;36;1mdescubramos algo que nunca existió[m
+[18:02:48] [Async Chat Thread - #1/INFO]: <[0;37;1mDNafar[m> [0;36;1mbañemos a un mono con gel[m
+[18:02:55] [Server thread/INFO]: DNafar issued server command: /chatcolor yellow
+[18:03:04] [Async Chat Thread - #1/INFO]: <[0;37;1mDNafar[m> [0;33;1mbus contemporal[m
+[18:03:08] [Async Chat Thread - #1/INFO]: <[0;37;1mDNafar[m> [0;33;1mo vida artificial[m
+[18:03:14] [Async Chat Thread - #1/INFO]: <[0;37;1mDNafar[m> [0;33;1msesos de Frankenstein[m
+[18:03:23] [Server thread/INFO]: vegeta33 lost connection: Disconnected
+[18:03:23] [Server thread/INFO]: vegeta33 left the game
+[18:03:23] [Server thread/INFO]: DNafar issued server command: /chatcolor white
+[18:03:30] [Server thread/INFO]: otescoter99 lost connection: Disconnected
+[18:03:30] [Server thread/INFO]: otescoter99 left the game
+[18:03:34] [Async Chat Thread - #1/INFO]: <[0;37;1mDNafar[m> [0;37;1m"Está por aqui"[m
+[18:03:37] [User Authenticator #11/INFO]: UUID of player vegeta33 is 222a24a4-9492-3a0b-840b-7cfe7a807b95
+[18:03:37] [Server thread/INFO]: vegeta33[/79.153.78.176:59992] logged in with entity id 41114 at ([world]800.5209474387187, 69.0, 463.45894968377104)
+[18:03:41] [Server thread/INFO]: DNafar issued server command: /chatcolor yellow
+[18:03:44] [User Authenticator #12/INFO]: UUID of player otescoter99 is f5cf22bb-af07-3306-b254-69fcaa69a23a
+[18:03:45] [Server thread/INFO]: otescoter99[/195.211.169.47:22891] logged in with entity id 41388 at ([world]-231.14673014330714, 57.0, -204.85742804081755)
+[18:03:57] [Async Chat Thread - #1/INFO]: <[0;37;1mDNafar[m> [0;33;1mun ave en extinción, pintemos la nación o hagamosla enloquecer[m
+[18:04:21] [Async Chat Thread - #1/INFO]: <[0;37;1mDNafar[m> [0;33;1mComo ves, mucho hay por hacer antes de ir otra vez a estudiar[m
+[18:04:37] [Async Chat Thread - #1/INFO]: <[0;37;1mDNafar[m> [0;33;1mquiero seguir con Phineas y con Ferb que haremos eso y más![m
+[18:04:41] [Async Chat Thread - #1/INFO]: <[0;37;1mDNafar[m> [0;33;1mquiero seguir con Phineas y con Ferb que haremos eso y más.[m
+[18:04:47] [Server thread/INFO]: DNafar issued server command: /chatcolor pink
+[18:04:52] [Server thread/INFO]: DNafar issued server command: /chatcolor magenta
+[18:05:14] [Async Chat Thread - #1/INFO]: <[0;37;1mDNafar[m> [0;35;1m"Mamá! Phineas y Ferb están haciendo los creditos iniciales!"[m
+[18:05:25] [Server thread/INFO]: DNafar issued server command: /chatcolor blue
+[18:05:34] [Async Chat Thread - #1/INFO]: <[0;37;1mDNafar[m> [0;34;1m*sonidos de guitarra electrica*ç[m
+[18:10:05] [Craft Scheduler Thread - 25/WARN]: java.io.IOException: Server returned HTTP response code: 500 for URL: http://coremod.com/pluginMetrics/pluginMetrics.php?plugin=ColorName&ip=25565&players=4
+[18:10:05] [Craft Scheduler Thread - 25/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[18:10:05] [Craft Scheduler Thread - 25/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[18:10:05] [Craft Scheduler Thread - 25/WARN]: 	at me.forseth11.colorName.PluginMetrics.update(PluginMetrics.java:32)
+[18:10:05] [Craft Scheduler Thread - 25/WARN]: 	at me.forseth11.colorName.PluginMetrics$1.run(PluginMetrics.java:51)
+[18:10:05] [Craft Scheduler Thread - 25/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81)
+[18:10:05] [Craft Scheduler Thread - 25/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+[18:10:05] [Craft Scheduler Thread - 25/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[18:10:05] [Craft Scheduler Thread - 25/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[18:10:05] [Craft Scheduler Thread - 25/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[18:18:20] [Server thread/INFO]: TheDiserky has made the advancement [Ice Bucket Challenge]
+[18:18:34] [Server thread/INFO]: TheDiserky has made the advancement [Diamonds!]
+[18:26:02] [Server thread/INFO]: otescoter99 lost connection: Disconnected
+[18:26:02] [Server thread/INFO]: otescoter99 left the game
+[18:34:45] [Server thread/INFO]: DNafar issued server command: /hpclearmobs
+[18:36:12] [User Authenticator #13/INFO]: UUID of player vegeta33 is 222a24a4-9492-3a0b-840b-7cfe7a807b95
+[18:36:17] [Server thread/INFO]: vegeta33 lost connection: Disconnected
+[18:36:17] [Server thread/INFO]: vegeta33 left the game
+[18:36:17] [Server thread/INFO]: vegeta33[/79.153.78.176:60081] logged in with entity id 56344 at ([world]813.1427021449871, 68.0, 448.93029338771515)
+[18:36:17] [Server thread/WARN]: TheDiserky moved too quickly! 7.433377766036898,4.580000013113022,-19.170723496441894
+[18:36:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24109ms or 482 ticks behind
+[18:40:28] [Craft Scheduler Thread - 31/WARN]: java.io.IOException: Server returned HTTP response code: 500 for URL: http://coremod.com/pluginMetrics/pluginMetrics.php?plugin=ColorName&ip=25565&players=3
+[18:40:28] [Craft Scheduler Thread - 31/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[18:40:28] [Craft Scheduler Thread - 31/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[18:40:28] [Craft Scheduler Thread - 31/WARN]: 	at me.forseth11.colorName.PluginMetrics.update(PluginMetrics.java:32)
+[18:40:28] [Craft Scheduler Thread - 31/WARN]: 	at me.forseth11.colorName.PluginMetrics$1.run(PluginMetrics.java:51)
+[18:40:28] [Craft Scheduler Thread - 31/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81)
+[18:40:28] [Craft Scheduler Thread - 31/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+[18:40:28] [Craft Scheduler Thread - 31/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[18:40:28] [Craft Scheduler Thread - 31/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[18:40:28] [Craft Scheduler Thread - 31/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[18:45:14] [User Authenticator #14/INFO]: UUID of player otescoter99 is f5cf22bb-af07-3306-b254-69fcaa69a23a
+[18:45:15] [Server thread/INFO]: otescoter99[/195.211.169.47:23487] logged in with entity id 59247 at ([world]-165.69527445744058, 77.0, -202.75666512205717)
+[18:48:00] [Server thread/INFO]: otescoter99 issued server command: /msg DNafar o queres acer lo del g2 rekkles?
+[18:54:30] [Async Chat Thread - #2/INFO]: <[0;37;1mDNafar[m> [0;34;1membapalé[m
+[18:54:55] [Async Chat Thread - #2/INFO]: <[0;37;1mDNafar[m> [0;34;1membapalé[m
+[18:55:08] [Server thread/INFO]: DNafar issued server command: /msg vegeta33 no se que me habias dicho antes
+[19:01:11] [Server thread/INFO]: DNafar issued server command: /weather clear
+[19:01:11] [Server thread/INFO]: [DNafar: Set the weather to clear]
+[19:03:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5180ms or 103 ticks behind
+[19:03:59] [User Authenticator #15/INFO]: UUID of player _SPEEDEE_ is f039a4b9-fd41-317f-b2ae-208effdafc06
+[19:04:00] [Server thread/INFO]: _SPEEDEE_[/192.168.0.3:56870] logged in with entity id 64274 at ([world]-223.44815444635515, 57.0, -199.94951100280696)
+[19:04:40] [Server thread/INFO]: TheDiserky has made the advancement [We Need to Go Deeper]
+[19:06:22] [Server thread/INFO]: _SPEEDEE_ issued server command: /weather clear
+[19:06:22] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
+[19:07:25] [Server thread/INFO]: [Server] [21m[0;31;22mF[m
+[19:07:25] [Server thread/INFO]: TheDiserky was shot by vegeta33 using [Arco de Artemisa]
+[19:10:24] [Server thread/INFO]: otescoter99 lost connection: Disconnected
+[19:10:24] [Server thread/INFO]: otescoter99 left the game
+[19:10:34] [Craft Scheduler Thread - 38/WARN]: java.io.IOException: Server returned HTTP response code: 500 for URL: http://coremod.com/pluginMetrics/pluginMetrics.php?plugin=ColorName&ip=25565&players=4
+[19:10:34] [Craft Scheduler Thread - 38/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[19:10:34] [Craft Scheduler Thread - 38/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[19:10:34] [Craft Scheduler Thread - 38/WARN]: 	at me.forseth11.colorName.PluginMetrics.update(PluginMetrics.java:32)
+[19:10:34] [Craft Scheduler Thread - 38/WARN]: 	at me.forseth11.colorName.PluginMetrics$1.run(PluginMetrics.java:51)
+[19:10:34] [Craft Scheduler Thread - 38/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81)
+[19:10:34] [Craft Scheduler Thread - 38/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+[19:10:34] [Craft Scheduler Thread - 38/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[19:10:34] [Craft Scheduler Thread - 38/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[19:10:34] [Craft Scheduler Thread - 38/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:11:28] [Server thread/INFO]: _SPEEDEE_ issued server command: /weather clear
+[19:11:28] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
+[19:13:41] [User Authenticator #16/INFO]: UUID of player otescoter99 is f5cf22bb-af07-3306-b254-69fcaa69a23a
+[19:13:41] [Server thread/INFO]: otescoter99[/195.211.169.47:23663] logged in with entity id 68169 at ([world]42.052920455734444, 73.0, -76.04277810783036)
+[19:16:31] [Server thread/INFO]: _SPEEDEE_ issued server command: /weather clear
+[19:16:31] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
+[19:17:04] [Server thread/INFO]: _SPEEDEE_ issued server command: /time set 0
+[19:17:04] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
+[19:17:08] [Server thread/INFO]: TheDiserky has made the advancement [Eye Spy]
+[19:17:14] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[19:17:14] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[19:17:15] [Server thread/INFO]: TheDiserky has made the advancement [The End?]
+[19:17:54] [Server thread/INFO]: TheDiserky has made the advancement [Withering Heights]
+[19:22:22] [Server thread/INFO]: TheDiserky lost connection: Disconnected
+[19:22:22] [Server thread/INFO]: TheDiserky left the game
+[19:22:25] [Server thread/INFO]: _SPEEDEE_ issued server command: /weather clear
+[19:22:25] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
+[19:22:26] [Server thread/INFO]: _SPEEDEE_ issued server command: /time set 0
+[19:22:26] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
+[19:23:41] [Server thread/INFO]: [Server] [21m[0;31;22mF[m
+[19:23:41] [Server thread/INFO]: otescoter99 fell from a high place
+[19:26:45] [Server thread/WARN]: vegeta33 moved wrongly!
+[19:27:31] [Server thread/INFO]: _SPEEDEE_ issued server command: /weather clear
+[19:27:31] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
+[19:27:34] [User Authenticator #17/INFO]: UUID of player TheDiserky is 251a8f07-48b3-3f67-923e-2d0185975e05
+[19:27:34] [Server thread/INFO]: TheDiserky[/81.33.214.96:57512] logged in with entity id 74770 at ([world_the_end]-1.5283253490112378, 61.53584062504456, 1.571583386693455)
+[19:29:44] [Server thread/WARN]: TheDiserky moved too quickly! -10.738645268702271,-0.2712241076924826,0.19653359696070538
+[19:31:26] [Server thread/INFO]: otescoter99 lost connection: Disconnected
+[19:31:26] [Server thread/INFO]: otescoter99 left the game
+[19:32:23] [User Authenticator #18/INFO]: UUID of player otescoter99 is f5cf22bb-af07-3306-b254-69fcaa69a23a
+[19:32:23] [Server thread/INFO]: otescoter99[/195.211.169.47:23769] logged in with entity id 76180 at ([world_nether]-27.449519523980022, 128.0, -28.150160440492613)
+[19:32:25] [Server thread/INFO]: otescoter99 lost connection: Disconnected
+[19:32:25] [Server thread/INFO]: otescoter99 left the game
+[19:32:37] [Server thread/INFO]: _SPEEDEE_ issued server command: /weather clear
+[19:32:37] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
+[19:32:44] [Server thread/INFO]: _SPEEDEE_ issued server command: /time set 0
+[19:32:44] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
+[19:34:47] [Server thread/INFO]: DNafar issued server command: /kick vegeta33
+[19:34:47] [Server thread/INFO]: vegeta33 lost connection: Kicked by an operator
+[19:34:47] [Server thread/INFO]: vegeta33 left the game
+[19:34:47] [Server thread/INFO]: [DNafar: Kicked vegeta33: Kicked by an operator]
+[19:34:49] [User Authenticator #19/INFO]: UUID of player otescoter99 is f5cf22bb-af07-3306-b254-69fcaa69a23a
+[19:34:49] [Server thread/INFO]: otescoter99[/195.211.169.47:23781] logged in with entity id 77705 at ([world_nether]-27.449519523980022, 128.0, -28.150160440492613)
+[19:34:50] [User Authenticator #20/INFO]: UUID of player vegeta33 is 222a24a4-9492-3a0b-840b-7cfe7a807b95
+[19:34:50] [Server thread/INFO]: vegeta33[/79.153.78.176:60349] logged in with entity id 77715 at ([world_nether]-25.385315343851982, 128.0, -37.42033018564035)
+[19:34:51] [Server thread/INFO]: otescoter99 lost connection: Disconnected
+[19:34:51] [Server thread/INFO]: otescoter99 left the game
+[19:35:22] [User Authenticator #21/INFO]: UUID of player otescoter99 is f5cf22bb-af07-3306-b254-69fcaa69a23a
+[19:35:22] [Server thread/INFO]: otescoter99[/195.211.169.47:23789] logged in with entity id 78001 at ([world_nether]-27.449519523980022, 128.0, -28.150160440492613)
+[19:38:35] [Server thread/INFO]: _SPEEDEE_ issued server command: /time set 0
+[19:38:35] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
+[19:38:36] [Server thread/INFO]: _SPEEDEE_ issued server command: /weather clear
+[19:38:36] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
+[19:38:42] [Server thread/INFO]: otescoter99 lost connection: Disconnected
+[19:38:42] [Server thread/INFO]: otescoter99 left the game
+[19:38:56] [User Authenticator #22/INFO]: UUID of player otescoter99 is f5cf22bb-af07-3306-b254-69fcaa69a23a
+[19:38:56] [Server thread/INFO]: otescoter99[/195.211.169.47:49400] logged in with entity id 79036 at ([world]-150.75829332016096, 77.0, -200.1067641295174)
+[19:40:01] [Server thread/INFO]: [Server] [21m[0;31;22mF[m
+[19:40:01] [Server thread/INFO]: otescoter99 was shot by vegeta33 using [Arco de Artemisa]
+[19:40:09] [Async Chat Thread - #3/INFO]: <[0;37;1mDNafar[m> [0;34;1mF[m
+[19:40:10] [Server thread/INFO]: [Server] [21m[0;31;22mF[m
+[19:40:10] [Server thread/INFO]: TheDiserky was shot by _SPEEDEE_ using [Evolas]
+[19:40:34] [Craft Scheduler Thread - 48/WARN]: java.io.IOException: Server returned HTTP response code: 500 for URL: http://coremod.com/pluginMetrics/pluginMetrics.php?plugin=ColorName&ip=25565&players=5
+[19:40:34] [Craft Scheduler Thread - 48/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[19:40:34] [Craft Scheduler Thread - 48/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[19:40:34] [Craft Scheduler Thread - 48/WARN]: 	at me.forseth11.colorName.PluginMetrics.update(PluginMetrics.java:32)
+[19:40:34] [Craft Scheduler Thread - 48/WARN]: 	at me.forseth11.colorName.PluginMetrics$1.run(PluginMetrics.java:51)
+[19:40:34] [Craft Scheduler Thread - 48/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81)
+[19:40:34] [Craft Scheduler Thread - 48/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+[19:40:34] [Craft Scheduler Thread - 48/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[19:40:34] [Craft Scheduler Thread - 48/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[19:40:34] [Craft Scheduler Thread - 48/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:42:57] [Server thread/INFO]: [Server] [21m[0;31;22mF[m
+[19:42:57] [Server thread/INFO]: otescoter99 was shot by vegeta33 using [Arco de Artemisa]
+[19:43:39] [Server thread/INFO]: _SPEEDEE_ issued server command: /weather clear
+[19:43:39] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
+[19:48:36] [Server thread/INFO]: _SPEEDEE_ issued server command: /weather clear
+[19:48:36] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
+[19:48:37] [Server thread/INFO]: _SPEEDEE_ issued server command: /time set 0
+[19:48:37] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
+[19:51:47] [Server thread/WARN]: vegeta33 moved wrongly!
+[19:53:51] [Server thread/INFO]: [Server] [21m[0;31;22mF[m
+[19:53:51] [Server thread/INFO]: vegeta33 fell from a high place
+[19:54:02] [Server thread/INFO]: _SPEEDEE_ issued server command: /time set 0
+[19:54:02] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
+[19:54:02] [Server thread/INFO]: _SPEEDEE_ issued server command: /weather clear
+[19:54:02] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
+[19:59:05] [Server thread/INFO]: _SPEEDEE_ issued server command: /weather clear
+[19:59:05] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
+[19:59:44] [User Authenticator #23/INFO]: UUID of player A10ElTaco is a7cc9d7c-4c00-36f6-a0da-71bcc6918e74
+[19:59:44] [Server thread/INFO]: A10ElTaco[/185.219.139.77:65449] logged in with entity id 86573 at ([world]-146.56328092320678, 77.0, -199.28664147600963)
+[20:03:35] [Server thread/INFO]: _SPEEDEE_ issued server command: /weather clear
+[20:03:35] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
+[20:03:36] [Server thread/INFO]: _SPEEDEE_ issued server command: /time set 0
+[20:03:36] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
+[20:08:41] [Server thread/INFO]: _SPEEDEE_ issued server command: /weather clear
+[20:08:41] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
+[20:10:33] [Craft Scheduler Thread - 53/WARN]: java.io.IOException: Server returned HTTP response code: 500 for URL: http://coremod.com/pluginMetrics/pluginMetrics.php?plugin=ColorName&ip=25565&players=6
+[20:10:33] [Craft Scheduler Thread - 53/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[20:10:33] [Craft Scheduler Thread - 53/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[20:10:33] [Craft Scheduler Thread - 53/WARN]: 	at me.forseth11.colorName.PluginMetrics.update(PluginMetrics.java:32)
+[20:10:33] [Craft Scheduler Thread - 53/WARN]: 	at me.forseth11.colorName.PluginMetrics$1.run(PluginMetrics.java:51)
+[20:10:33] [Craft Scheduler Thread - 53/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81)
+[20:10:33] [Craft Scheduler Thread - 53/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+[20:10:33] [Craft Scheduler Thread - 53/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[20:10:33] [Craft Scheduler Thread - 53/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[20:10:33] [Craft Scheduler Thread - 53/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[20:11:59] [Server thread/INFO]: otescoter99 lost connection: Disconnected
+[20:11:59] [Server thread/INFO]: otescoter99 left the game
+[20:13:44] [Server thread/INFO]: _SPEEDEE_ issued server command: /weather clear
+[20:13:44] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
+[20:13:45] [Server thread/INFO]: _SPEEDEE_ issued server command: /time set 0
+[20:13:45] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
+[20:13:51] [Server thread/INFO]: A10ElTaco lost connection: Disconnected
+[20:13:51] [Server thread/INFO]: A10ElTaco left the game
+[20:13:54] [User Authenticator #24/INFO]: UUID of player A10ElTaco is a7cc9d7c-4c00-36f6-a0da-71bcc6918e74
+[20:13:54] [Server thread/INFO]: A10ElTaco[/185.219.139.77:49506] logged in with entity id 95142 at ([world_nether]-25.274974120795775, 255.5, -27.048642046443835)
+[20:18:48] [Server thread/INFO]: _SPEEDEE_ lost connection: Disconnected
+[20:18:48] [Server thread/INFO]: _SPEEDEE_ left the game
+[20:20:47] [Server thread/INFO]: vegeta33 lost connection: Disconnected
+[20:20:47] [Server thread/INFO]: vegeta33 left the game
+[20:21:00] [Server thread/INFO]: DNafar issued server command: /WEATHER clear
+[20:21:00] [Server thread/INFO]: [DNafar: Set the weather to clear]
+[20:21:04] [Server thread/INFO]: DNafar issued server command: /weather clear
+[20:21:04] [Server thread/INFO]: [DNafar: Set the weather to clear]
+[20:23:18] [Async Chat Thread - #4/INFO]: <[0;37;1mDNafar[m> [0;34;1mnoob[m
+[20:23:23] [Server thread/INFO]: DNafar issued server command: /chatcolor red
+[20:23:27] [Async Chat Thread - #4/INFO]: <[0;37;1mDNafar[m> [0;31;22mfuck you[m
+[20:23:30] [Async Chat Thread - #4/INFO]: <[0;37;1mDNafar[m> [0;31;22mnoob[m
+[20:23:39] [Async Chat Thread - #4/INFO]: <[0;37;1mDNafar[m> [0;31;22mPog[m
+[20:26:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5014ms or 100 ticks behind
+[20:26:39] [User Authenticator #25/INFO]: UUID of player _SPEEDEE_ is f039a4b9-fd41-317f-b2ae-208effdafc06
+[20:26:40] [Server thread/INFO]: _SPEEDEE_[/192.168.0.3:58042] logged in with entity id 99924 at ([world]-153.18898486888594, 77.875, -206.73794026861765)
+[20:26:47] [Server thread/INFO]: _SPEEDEE_ issued server command: /weather clear
+[20:26:47] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
+[20:26:50] [User Authenticator #26/INFO]: UUID of player vegeta33 is 222a24a4-9492-3a0b-840b-7cfe7a807b95
+[20:26:50] [Server thread/INFO]: vegeta33[/79.153.78.176:60558] logged in with entity id 99989 at ([world]-163.30000001192093, 77.0, -225.69999998807907)
+[20:30:16] [Server thread/INFO]: [Server] [21m[0;31;22mF[m
+[20:30:16] [Server thread/INFO]: TheDiserky was slain by embapalé
+[20:30:17] [User Authenticator #27/INFO]: UUID of player TheDravirus is 16892524-8d5c-3b1a-8252-7c9a5405e06d
+[20:30:17] [Server thread/INFO]: TheDravirus[/88.21.222.60:58286] logged in with entity id 100992 at ([world_nether]598.0901907266631, 63.0, 1379.9652111083476)
+[20:30:44] [Server thread/INFO]: _SPEEDEE_ issued server command: /weather clear
+[20:30:44] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
+[20:30:49] [Server thread/INFO]: _SPEEDEE_ issued server command: /time set 0
+[20:30:49] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
+[20:35:51] [Server thread/INFO]: _SPEEDEE_ issued server command: /time set 0
+[20:35:51] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
+[20:35:51] [Server thread/INFO]: _SPEEDEE_ issued server command: /weather clear
+[20:35:51] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
+[20:39:01] [Server thread/WARN]: _SPEEDEE_ moved wrongly!
+[20:40:39] [Craft Scheduler Thread - 59/WARN]: java.io.IOException: Server returned HTTP response code: 500 for URL: http://coremod.com/pluginMetrics/pluginMetrics.php?plugin=ColorName&ip=25565&players=6
+[20:40:39] [Craft Scheduler Thread - 59/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[20:40:39] [Craft Scheduler Thread - 59/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[20:40:39] [Craft Scheduler Thread - 59/WARN]: 	at me.forseth11.colorName.PluginMetrics.update(PluginMetrics.java:32)
+[20:40:39] [Craft Scheduler Thread - 59/WARN]: 	at me.forseth11.colorName.PluginMetrics$1.run(PluginMetrics.java:51)
+[20:40:39] [Craft Scheduler Thread - 59/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81)
+[20:40:39] [Craft Scheduler Thread - 59/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+[20:40:39] [Craft Scheduler Thread - 59/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[20:40:39] [Craft Scheduler Thread - 59/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[20:40:39] [Craft Scheduler Thread - 59/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[20:40:57] [Server thread/INFO]: _SPEEDEE_ issued server command: /weather clear
+[20:40:57] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
+[20:43:40] [Server thread/INFO]: DNafar lost connection: Disconnected
+[20:43:40] [Server thread/INFO]: DNafar left the game
+[20:45:52] [Server thread/INFO]: A10ElTaco lost connection: Disconnected
+[20:45:52] [Server thread/INFO]: A10ElTaco left the game
+[20:45:54] [User Authenticator #28/INFO]: UUID of player A10ElTaco is a7cc9d7c-4c00-36f6-a0da-71bcc6918e74
+[20:45:54] [Server thread/INFO]: A10ElTaco[/185.219.139.77:50537] logged in with entity id 117171 at ([world]1700.0451236621884, 72.82597815986006, -4481.975056660013)
+[20:46:07] [Server thread/INFO]: _SPEEDEE_ issued server command: /weather clear
+[20:46:07] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
+[20:46:53] [Server thread/INFO]: A10ElTaco lost connection: Disconnected
+[20:46:53] [Server thread/INFO]: A10ElTaco left the game
+[20:46:56] [User Authenticator #29/INFO]: UUID of player A10ElTaco is a7cc9d7c-4c00-36f6-a0da-71bcc6918e74
+[20:46:56] [Server thread/INFO]: A10ElTaco[/185.219.139.77:50574] logged in with entity id 119316 at ([world]2179.607236618156, 108.48082397789855, -5241.707535799437)
+[20:47:05] [Server thread/INFO]: _SPEEDEE_ issued server command: /time set 0
+[20:47:05] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
+[20:49:04] [Server thread/WARN]: TheDiserky was kicked for floating too long!
+[20:49:04] [Server thread/INFO]: TheDiserky lost connection: Flying is not enabled on this server
+[20:49:04] [Server thread/INFO]: TheDiserky left the game
+[20:50:15] [User Authenticator #30/INFO]: UUID of player TheDiserky is 251a8f07-48b3-3f67-923e-2d0185975e05
+[20:50:15] [Server thread/INFO]: TheDiserky[/81.33.214.96:57711] logged in with entity id 124767 at ([world]-132.93303250017033, 63.0, -216.39757290415253)
+[20:51:27] [Server thread/INFO]: _SPEEDEE_ issued server command: /weather clear
+[20:51:27] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
+[20:56:02] [Server thread/INFO]: [Server] [21m[0;31;22mF[m
+[20:56:02] [Server thread/INFO]: TheDiserky experienced kinetic energy
+[20:56:43] [Server thread/INFO]: _SPEEDEE_ issued server command: /weather clear
+[20:56:43] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
+[20:56:44] [Server thread/INFO]: _SPEEDEE_ issued server command: /time set 0
+[20:56:44] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
+[20:58:26] [Async Chat Thread - #5/INFO]: <[0;31;22m_SPEEDEE_[m> [0;32;1malguien en el nether?[m
+[20:58:30] [Async Chat Thread - #5/INFO]: <[0;35;22mvegeta33[m> [0;34;1mnp[m
+[20:58:32] [Async Chat Thread - #5/INFO]: <[0;37;1mA10ElTaco[m> [0;37;1mno[m
+[20:58:33] [Server thread/INFO]: _SPEEDEE_ issued server command: /color rainbow
+[20:58:38] [Server thread/INFO]: [Server] [21m[0;31;22mF[m
+[20:58:38] [Server thread/INFO]: TheDiserky fell from a high place
+[20:58:45] [Async Chat Thread - #5/INFO]: <[0;31;22m_[0;31;1mS[0;33;1mP[0;32;1mE[0;34;1mE[0;35;1mD[0;35;22mE[0;31;22mE[0;31;1m_[m> [0;32;1meso queria mirar[m
+[20:59:09] [User Authenticator #31/INFO]: UUID of player DNafar is f0cd732e-6c9b-317f-99eb-aa9fb96d770b
+[20:59:09] [Server thread/INFO]: DNafar[/188.77.147.173:49519] logged in with entity id 133199 at ([world]-121.54102372737165, 193.0, -364.635001628434)
+[20:59:53] [Async Chat Thread - #6/INFO]: <[0;31;22m_[0;31;1mS[0;33;1mP[0;32;1mE[0;34;1mE[0;35;1mD[0;35;22mE[0;31;22mE[0;31;1m_[m> [0;32;1mparece que chuta[m
+[21:00:00] [Async Chat Thread - #6/INFO]: <[0;37;1mDNafar[m> [0;31;22mlo keç[m
+[21:00:04] [Async Chat Thread - #6/INFO]: <[0;37;1mDNafar[m> [0;31;22mke*[m
+[21:00:07] [Async Chat Thread - #6/INFO]: <[0;31;22m_[0;31;1mS[0;33;1mP[0;32;1mE[0;34;1mE[0;35;1mD[0;35;22mE[0;31;22mE[0;31;1m_[m> [0;32;1mgranja XP[m
+[21:00:12] [Async Chat Thread - #6/INFO]: <[0;37;1mDNafar[m> [0;31;22mpoggggggggggggggg[m
+[21:00:29] [Async Chat Thread - #6/INFO]: <[0;31;22m_[0;31;1mS[0;33;1mP[0;32;1mE[0;34;1mE[0;35;1mD[0;35;22mE[0;31;22mE[0;31;1m_[m> [0;32;1mderrepente se a parado[m
+[21:01:49] [Server thread/INFO]: DNafar issued server command: /weather
+[21:01:53] [Server thread/INFO]: DNafar issued server command: /weather clear
+[21:01:53] [Server thread/INFO]: [DNafar: Set the weather to clear]
+[21:02:00] [Server thread/INFO]: [Server] [21m[0;31;22mF[m
+[21:02:00] [Server thread/INFO]: TheDiserky was shot by vegeta33 using [Arco de Artemisa]
+[21:02:52] [Async Chat Thread - #7/INFO]: <[0;31;22m_[0;31;1mS[0;33;1mP[0;32;1mE[0;34;1mE[0;35;1mD[0;35;22mE[0;31;22mE[0;31;1m_[m> [0;32;1mestoy mirando[m
+[21:03:09] [Async Chat Thread - #7/INFO]: <[0;31;22m_[0;31;1mS[0;33;1mP[0;32;1mE[0;34;1mE[0;35;1mD[0;35;22mE[0;31;22mE[0;31;1m_[m> [0;32;1mparece que si te quedas un rato arriba y despues bajas no para[m
+[21:03:15] [Async Chat Thread - #7/INFO]: <[0;31;22m_[0;31;1mS[0;33;1mP[0;32;1mE[0;34;1mE[0;35;1mD[0;35;22mE[0;31;22mE[0;31;1m_[m> [0;32;1mpero no se cuanto tiempo[m
+[21:03:22] [Async Chat Thread - #7/INFO]: <[0;31;22m_[0;31;1mS[0;33;1mP[0;32;1mE[0;34;1mE[0;35;1mD[0;35;22mE[0;31;22mE[0;31;1m_[m> [0;32;1mllegaran a caer[m
+[21:04:44] [Async Chat Thread - #8/INFO]: <[0;31;22m_[0;31;1mS[0;33;1mP[0;32;1mE[0;34;1mE[0;35;1mD[0;35;22mE[0;31;22mE[0;31;1m_[m> [0;32;1mn`op[m
+[21:06:56] [Async Chat Thread - #9/INFO]: <[0;31;22m_[0;31;1mS[0;33;1mP[0;32;1mE[0;34;1mE[0;35;1mD[0;35;22mE[0;31;22mE[0;31;1m_[m> [0;32;1mn`op[m
+[21:06:58] [Async Chat Thread - #9/INFO]: <[0;31;22m_[0;31;1mS[0;33;1mP[0;32;1mE[0;34;1mE[0;35;1mD[0;35;22mE[0;31;22mE[0;31;1m_[m> [0;32;1mllegaran a caer[m
+[21:07:00] [Async Chat Thread - #9/INFO]: <[0;31;22m_[0;31;1mS[0;33;1mP[0;32;1mE[0;34;1mE[0;35;1mD[0;35;22mE[0;31;22mE[0;31;1m_[m> [0;32;1majjjj[m
+[21:07:03] [Server thread/INFO]: _SPEEDEE_ issued server command: /weather clear
+[21:07:03] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
+[21:07:07] [Server thread/INFO]: _SPEEDEE_ issued server command: /time set 0
+[21:07:07] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
+[21:10:38] [Craft Scheduler Thread - 67/WARN]: java.io.IOException: Server returned HTTP response code: 500 for URL: http://coremod.com/pluginMetrics/pluginMetrics.php?plugin=ColorName&ip=25565&players=6
+[21:10:38] [Craft Scheduler Thread - 67/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[21:10:38] [Craft Scheduler Thread - 67/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[21:10:38] [Craft Scheduler Thread - 67/WARN]: 	at me.forseth11.colorName.PluginMetrics.update(PluginMetrics.java:32)
+[21:10:38] [Craft Scheduler Thread - 67/WARN]: 	at me.forseth11.colorName.PluginMetrics$1.run(PluginMetrics.java:51)
+[21:10:38] [Craft Scheduler Thread - 67/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81)
+[21:10:38] [Craft Scheduler Thread - 67/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+[21:10:38] [Craft Scheduler Thread - 67/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[21:10:38] [Craft Scheduler Thread - 67/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[21:10:38] [Craft Scheduler Thread - 67/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[21:12:10] [Server thread/INFO]: _SPEEDEE_ issued server command: /weather clear
+[21:12:10] [Server thread/INFO]: [_SPEEDEE_: Set the weather to clear]
+[21:12:11] [Server thread/INFO]: _SPEEDEE_ issued server command: /time set 0
+[21:12:11] [Server thread/INFO]: [_SPEEDEE_: Set the time to 0]
+[21:15:18] [Server thread/INFO]: _SPEEDEE_ lost connection: Disconnected
+[21:15:18] [Server thread/INFO]: _SPEEDEE_ left the game
+[21:17:24] [Server thread/INFO]: DNafar issued server command: /weather clear
+[21:17:24] [Server thread/INFO]: [DNafar: Set the weather to clear]
+[21:18:46] [Server thread/INFO]: [Server] [21m[0;31;22mF[m
+[21:18:46] [Server thread/INFO]: TheDiserky was burnt to a crisp whilst fighting A10ElTaco
+[21:22:46] [Server thread/INFO]: TheDiserky lost connection: Disconnected
+[21:22:46] [Server thread/INFO]: TheDiserky left the game
+[21:23:01] [Server thread/INFO]: DNafar issued server command: /weather clear
+[21:23:01] [Server thread/INFO]: [DNafar: Set the weather to clear]
+[21:23:27] [Server thread/INFO]: vegeta33 lost connection: Disconnected
+[21:23:27] [Server thread/INFO]: vegeta33 left the game
+[21:23:52] [Server thread/INFO]: DNafar issued server command: /time set 0
+[21:23:52] [Server thread/INFO]: [DNafar: Set the time to 0]
+[21:26:31] [Server thread/INFO]: DNafar lost connection: Disconnected
+[21:26:31] [Server thread/INFO]: DNafar left the game
+[21:39:28] [Server thread/INFO]: TheDravirus lost connection: Disconnected
+[21:39:28] [Server thread/INFO]: TheDravirus left the game
+[21:40:38] [Craft Scheduler Thread - 72/WARN]: java.io.IOException: Server returned HTTP response code: 500 for URL: http://coremod.com/pluginMetrics/pluginMetrics.php?plugin=ColorName&ip=25565&players=1
+[21:40:38] [Craft Scheduler Thread - 72/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[21:40:38] [Craft Scheduler Thread - 72/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[21:40:38] [Craft Scheduler Thread - 72/WARN]: 	at me.forseth11.colorName.PluginMetrics.update(PluginMetrics.java:32)
+[21:40:38] [Craft Scheduler Thread - 72/WARN]: 	at me.forseth11.colorName.PluginMetrics$1.run(PluginMetrics.java:51)
+[21:40:38] [Craft Scheduler Thread - 72/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81)
+[21:40:38] [Craft Scheduler Thread - 72/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+[21:40:38] [Craft Scheduler Thread - 72/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[21:40:38] [Craft Scheduler Thread - 72/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[21:40:38] [Craft Scheduler Thread - 72/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[21:57:09] [User Authenticator #32/INFO]: UUID of player vegeta33 is 222a24a4-9492-3a0b-840b-7cfe7a807b95
+[21:57:09] [Server thread/INFO]: vegeta33[/79.153.78.176:61589] logged in with entity id 154157 at ([world]-164.39630169436973, 77.5625, -225.6717463823721)
+[21:59:28] [Server thread/INFO]: [Server] [21m[0;31;22mF[m
+[21:59:28] [Server thread/INFO]: A10ElTaco drowned
+[22:07:31] [Async Chat Thread - #10/INFO]: <[0;35;22mvegeta33[m> [0;34;1mxd?[m
+[22:07:37] [Async Chat Thread - #10/INFO]: <[0;35;22mvegeta33[m> [0;34;1mcomo te has ahogado?[m
+[22:09:39] [Server thread/INFO]: A10ElTaco lost connection: Disconnected
+[22:09:39] [Server thread/INFO]: A10ElTaco left the game
+[22:10:38] [Craft Scheduler Thread - 78/WARN]: java.io.IOException: Server returned HTTP response code: 500 for URL: http://coremod.com/pluginMetrics/pluginMetrics.php?plugin=ColorName&ip=25565&players=1
+[22:10:38] [Craft Scheduler Thread - 78/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[22:10:38] [Craft Scheduler Thread - 78/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[22:10:38] [Craft Scheduler Thread - 78/WARN]: 	at me.forseth11.colorName.PluginMetrics.update(PluginMetrics.java:32)
+[22:10:38] [Craft Scheduler Thread - 78/WARN]: 	at me.forseth11.colorName.PluginMetrics$1.run(PluginMetrics.java:51)
+[22:10:38] [Craft Scheduler Thread - 78/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81)
+[22:10:38] [Craft Scheduler Thread - 78/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+[22:10:38] [Craft Scheduler Thread - 78/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[22:10:38] [Craft Scheduler Thread - 78/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[22:10:38] [Craft Scheduler Thread - 78/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[22:40:38] [Craft Scheduler Thread - 83/WARN]: java.io.IOException: Server returned HTTP response code: 500 for URL: http://coremod.com/pluginMetrics/pluginMetrics.php?plugin=ColorName&ip=25565&players=1
+[22:40:38] [Craft Scheduler Thread - 83/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[22:40:38] [Craft Scheduler Thread - 83/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[22:40:38] [Craft Scheduler Thread - 83/WARN]: 	at me.forseth11.colorName.PluginMetrics.update(PluginMetrics.java:32)
+[22:40:38] [Craft Scheduler Thread - 83/WARN]: 	at me.forseth11.colorName.PluginMetrics$1.run(PluginMetrics.java:51)
+[22:40:38] [Craft Scheduler Thread - 83/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81)
+[22:40:38] [Craft Scheduler Thread - 83/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+[22:40:38] [Craft Scheduler Thread - 83/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[22:40:38] [Craft Scheduler Thread - 83/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[22:40:38] [Craft Scheduler Thread - 83/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[23:10:38] [Craft Scheduler Thread - 88/WARN]: java.io.IOException: Server returned HTTP response code: 500 for URL: http://coremod.com/pluginMetrics/pluginMetrics.php?plugin=ColorName&ip=25565&players=1
+[23:10:38] [Craft Scheduler Thread - 88/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[23:10:38] [Craft Scheduler Thread - 88/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[23:10:38] [Craft Scheduler Thread - 88/WARN]: 	at me.forseth11.colorName.PluginMetrics.update(PluginMetrics.java:32)
+[23:10:38] [Craft Scheduler Thread - 88/WARN]: 	at me.forseth11.colorName.PluginMetrics$1.run(PluginMetrics.java:51)
+[23:10:38] [Craft Scheduler Thread - 88/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81)
+[23:10:38] [Craft Scheduler Thread - 88/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+[23:10:38] [Craft Scheduler Thread - 88/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[23:10:38] [Craft Scheduler Thread - 88/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[23:10:38] [Craft Scheduler Thread - 88/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[23:12:34] [Server thread/INFO]: vegeta33 lost connection: Disconnected
+[23:12:34] [Server thread/INFO]: vegeta33 left the game
+[23:40:38] [Craft Scheduler Thread - 94/WARN]: java.io.IOException: Server returned HTTP response code: 500 for URL: http://coremod.com/pluginMetrics/pluginMetrics.php?plugin=ColorName&ip=25565&players=0
+[23:40:38] [Craft Scheduler Thread - 94/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[23:40:38] [Craft Scheduler Thread - 94/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[23:40:38] [Craft Scheduler Thread - 94/WARN]: 	at me.forseth11.colorName.PluginMetrics.update(PluginMetrics.java:32)
+[23:40:38] [Craft Scheduler Thread - 94/WARN]: 	at me.forseth11.colorName.PluginMetrics$1.run(PluginMetrics.java:51)
+[23:40:38] [Craft Scheduler Thread - 94/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81)
+[23:40:38] [Craft Scheduler Thread - 94/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+[23:40:38] [Craft Scheduler Thread - 94/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[23:40:38] [Craft Scheduler Thread - 94/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[23:40:38] [Craft Scheduler Thread - 94/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[23:48:11] [User Authenticator #33/INFO]: UUID of player DNafar is f0cd732e-6c9b-317f-99eb-aa9fb96d770b
+[23:48:11] [Server thread/INFO]: DNafar[/188.77.147.173:51731] logged in with entity id 169184 at ([world]-96.25431281537985, 210.0, -364.5275336817813)
+[23:49:52] [User Authenticator #34/INFO]: UUID of player vegeta33 is 222a24a4-9492-3a0b-840b-7cfe7a807b95
+[23:49:52] [Server thread/INFO]: vegeta33[/79.153.78.176:63967] logged in with entity id 169243 at ([world_nether]-25.30000001192093, 222.0, -24.69999998807907)
+[23:52:33] [Server thread/INFO]: Stopping the server
+[23:52:33] [Server thread/INFO]: Stopping server
+[23:52:33] [Server thread/INFO]: [ColorName] Disabling ColorName v2.0.1
+[23:52:33] [Server thread/INFO]: ColorName Has Been Disabled
+[23:52:34] [Server thread/WARN]: java.io.IOException: Server returned HTTP response code: 500 for URL: http://coremod.com/pluginMetrics/pluginMetrics.php?plugin=ColorName&ip=25565&players=-1
+[23:52:34] [Server thread/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[23:52:34] [Server thread/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[23:52:34] [Server thread/WARN]: 	at me.forseth11.colorName.PluginMetrics.update(PluginMetrics.java:32)
+[23:52:34] [Server thread/WARN]: 	at me.forseth11.colorName.ColorName.onDisable(ColorName.java:36)
+[23:52:34] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+[23:52:34] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+[23:52:34] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+[23:52:34] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+[23:52:34] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.disablePlugins(CraftServer.java:428)
+[23:52:34] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.stop(MinecraftServer.java:716)
+[23:52:34] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.DedicatedServer.stop(DedicatedServer.java:650)
+[23:52:34] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:888)
+[23:52:34] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164)
+[23:52:34] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[23:52:34] [Server thread/INFO]: [DeadChest] Disabling DeadChest v4.3.0
+[23:52:34] [Server thread/INFO]: [ChatColor2] Disabling ChatColor2 v1.10.4
+[23:52:34] [Server thread/INFO]: [0;35;22m[21m[[0;33;22mChat[0;32;1mC[0;36;1mo[0;31;1ml[0;35;1mo[0;33;1mr[0;35;22m[21m] [0;33;1mChatColor 2 Version [0;36;1m1.10.4 [0;33;1mhas been [0;31;1mdisabled[0;33;1m.[m
+[23:52:34] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.45.2
+[23:52:34] [Server thread/INFO]: [1m[32m**************************************[0m
+[23:52:34] [Server thread/INFO]: [1m[33mSinglePlayerSleep v1.13_2.13.45.2[0m is DISABLED
+[23:52:34] [Server thread/INFO]: [1m[32m**************************************[0m
+[23:52:34] [Server thread/INFO]: [F] Disabling F v1.1.4
+[23:52:34] [Server thread/INFO]: [Chairs] Disabling Chairs v7.0
+[23:52:34] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v13.8.8
+[23:52:34] [Server thread/INFO]: [PluginConstructorAPI] Disabling PluginConstructorAPI v1.0.52
+[23:52:34] [Server thread/INFO]: [DeathLocation] Disabling DeathLocation v1.0
+[23:52:34] [Server thread/INFO]: [DeathLocation] Plugin has been disabled!
+[23:52:34] [Server thread/INFO]: [UltimateHeadFinder] Disabling UltimateHeadFinder v1.1.0
+[23:52:34] [Server thread/INFO]: Saving players
+[23:52:34] [Server thread/INFO]: DNafar lost connection: Server closed
+[23:52:34] [Server thread/INFO]: DNafar left the game
+[23:52:34] [Server thread/INFO]: vegeta33 lost connection: Server closed
+[23:52:34] [Server thread/INFO]: vegeta33 left the game
+[23:52:34] [Server thread/INFO]: Saving worlds
+[23:52:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:52:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:52:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[23:52:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:52:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[23:52:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:52:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:52:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:52:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

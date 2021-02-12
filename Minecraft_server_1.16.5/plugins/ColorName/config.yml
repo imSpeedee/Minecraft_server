@@ -1,0 +1,22 @@
+colorSet: Color set to %color.
+colorSetDefault: Your name color has been set to %default.
+colorSetByAdminToAdmin: '%player''s name color has been changed to %color'
+colorSetByAdmin: Color set to %color by an admin
+colorSetByAdminToAdminDefault: '%player''s name color has been set to %default'
+colorSetByAdminDefault: Your name color has been set to %default by an admin
+colorDefault: f
+sharePlayerCount: true
+database:
+  enable: false
+  host: hostname:port/dbname
+  username: user
+  password: password
+  table: tableName
+f039a4b9-fd41-317f-b2ae-208effdafc06: 52
+222a24a4-9492-3a0b-840b-7cfe7a807b95: 53
+f0cd732e-6c9b-317f-99eb-aa9fb96d770b: 102
+80ba3f02-35e9-3291-950a-9c51641ec4d7: 102
+f5cf22bb-af07-3306-b254-69fcaa69a23a: 54
+a7cc9d7c-4c00-36f6-a0da-71bcc6918e74: 102
+16892524-8d5c-3b1a-8252-7c9a5405e06d: 102
+251a8f07-48b3-3f67-923e-2d0185975e05: 56

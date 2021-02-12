@@ -137,7 +137,7 @@ world-settings:
       hopper-check: 1
     entity-activation-range:
       animals: 32
-      monsters: 32
+      monsters: 50
       raiders: 48
       misc: 16
       tick-inactive-villagers: true
