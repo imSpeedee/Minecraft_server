@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2021-02-13 00:55:05 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2021-01-29 12:51:21 +0100"
@@ -332,6 +338,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2021-02-11 00:12:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2021-02-13 00:47:56 +0100"
     },
     "done": true
   },
@@ -903,7 +915,8 @@
       "minecraft:endermite": "2021-01-31 16:09:32 +0100",
       "minecraft:vex": "2021-02-03 00:06:08 +0100",
       "minecraft:zombie": "2021-01-29 14:00:14 +0100",
-      "minecraft:drowned": "2021-01-29 15:31:29 +0100"
+      "minecraft:drowned": "2021-01-29 15:31:29 +0100",
+      "minecraft:zombie_villager": "2021-02-12 17:03:50 +0100"
     },
     "done": false
   },
@@ -1297,6 +1310,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2021-02-13 00:47:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:nether/create_beacon": {
     "criteria": {
       "beacon": "2021-02-04 16:35:44 +0100"
@@ -1486,6 +1505,12 @@
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2021-01-29 13:17:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2021-02-12 16:06:36 +0100"
     },
     "done": true
   },
@@ -1968,6 +1993,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2021-02-13 00:51:17 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-01-29 12:55:53 +0100"
@@ -2212,6 +2243,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2021-02-13 00:47:56 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_yellow_dye": "2021-01-29 23:41:34 +0100"
@@ -2245,6 +2282,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2021-01-31 16:14:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_white_flower": "2021-02-13 00:52:54 +0100"
     },
     "done": true
   },
@@ -2527,6 +2570,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2021-01-30 16:59:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
+    "criteria": {
+      "has_log": "2021-02-12 22:50:16 +0100"
     },
     "done": true
   },
@@ -3391,6 +3440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2021-02-12 22:50:22 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2021-01-29 12:40:31 +0100"
@@ -3418,6 +3473,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2021-01-30 00:18:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2021-02-13 00:53:22 +0100"
     },
     "done": true
   },
@@ -4126,6 +4187,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2021-01-31 15:38:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2021-02-12 16:06:17 +0100"
     },
     "done": true
   },
